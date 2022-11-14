@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $stanfordred;
+  color: $vandygold;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $stanfordred;
+    color: $vandygold;
   }
 }
 
@@ -326,7 +326,7 @@ details > summary::marker {
 
 details > summary {
   cursor: pointer;
-  color: $stanfordred;
+  color: $vandygold;
   list-style: none;
 }
 
