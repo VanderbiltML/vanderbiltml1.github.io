@@ -107,7 +107,7 @@ strong, b {
 }
 
 img {
-  max-height: 200%;
+  max-height: 100%;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -213,6 +213,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
+  margin-bottom: 23;
   font-family: $sourceSansPro;
   font-size: 18px;
 
