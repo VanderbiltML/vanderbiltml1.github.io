@@ -11,7 +11,7 @@ meta-description: "Seminar series on the frontier of machine learning. Available
 * Our talks this semester are Thursdays 1:30 PM PT!
 * Join our [email list](https://groups.google.com/forum/#!forum/stanford-mlsys-seminars/join) to get notified of the speaker and livestream link every week! 
 
-Machine learning is driving exciting changes and progress in computing.
+<!-- Machine learning is driving exciting changes and progress in computing.
 What does the ubiquity of machine learning mean for how people build and deploy
 systems and applications?
 What challenges does industry face when deploying machine learning systems in
@@ -33,7 +33,7 @@ Read about our [motivation for starting this seminar](https://hazyresearch.stanf
 
 Check out our introductory video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OEiNnfdxBRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+ -->
 <!-- Read our blog post on our [why we're running this seminar]({{ site.baseurl }}/about). -->
 
 {% for category in site.data.talks %}
