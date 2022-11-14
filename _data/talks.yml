@@ -5,7 +5,7 @@
 
 - type: Previous Talks
   members:
-    - speaker: Roman Kazinnik
+    - speaker: Roman Kazinnikk
       date: 2/20/22
       title: "Towards Building a Heavy-Tailed Theory of Stochastic Gradient Descent for Deep Neural Networks"
       abstract: "Taking stock of ML Infra problems with potential to benefit from systematic analysis. ML currently requires running large amounts experiments to compensate for the lack of analysis. 
