@@ -82,9 +82,9 @@ Check out our introductory video:
 
 **Seminar Hosts:** Soheil Kolouri
 
-**Executive Producers:** Matei Zaharia, Chris Ré.
+<!-- **Executive Producers:** Matei Zaharia, Chris Ré. -->
 
-You can reach us at sysmlstanfordseminar [at] gmail.
+You can reach us at soheil.kolouri [at] vanderbilt [dot] edu.
 
 <!-- Please uncomment this part if you clone our source code! -->
 
