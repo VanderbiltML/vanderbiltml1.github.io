@@ -92,7 +92,7 @@ You can either fill out this form or send us an email if you have additional sug
   </label>
    <label>
     Nominee:
-    <input type="text" name="email">
+    <input type="text" name="nominee">
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Nominate</button>
