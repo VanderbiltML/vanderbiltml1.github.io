@@ -80,7 +80,7 @@ Check out our introductory video:
 
 # Nominate a speaker
 
-You can either fill out this form or send us an email if you have additional suggestions. We will review and consider contacting the nominee to schedule a talk.
+You can either fill out this form or send us an email if you have additional suggestions. We will review and consider sending the nominee an invite to schedule a talk!
 
 <form
   action="https://formspree.io/f/xgeqdykn"
@@ -95,7 +95,7 @@ You can either fill out this form or send us an email if you have additional sug
     <input type="text" name="nominee">
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Nominate</button>
+  <button type="submit">Submit</button>
 </form>
 
 
