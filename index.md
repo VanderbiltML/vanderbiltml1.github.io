@@ -93,7 +93,7 @@ Check out our introductory video:
     <input type="email" name="email">
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit">Nominate</button>
 </form>
 
 
