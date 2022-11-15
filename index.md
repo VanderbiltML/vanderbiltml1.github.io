@@ -80,7 +80,7 @@ Check out our introductory video:
 
 # About The Seminar
 
-**Seminar Hosts:** Soheil Kolouri
+**Seminar Hosts:** Soheil Kolouri, Tyler Derr
 
 <!-- **Executive Producers:** Matei Zaharia, Chris Ré. -->
 
