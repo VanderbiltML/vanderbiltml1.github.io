@@ -80,16 +80,12 @@ Check out our introductory video:
 
 # Nominate a speaker
 
-You can either fill out this form or send us an email if you have additional suggestions.
+You can either fill out this form or send us an email if you have additional suggestions. We will review and consider contacting the nominee to schedule a talk.
 
 <form
   action="https://formspree.io/f/xgeqdykn"
   method="POST"
 >
-   <label>
-    Your name:
-    <input type="text" name="email">
-  </label>
   <label>
     Your email:
     <input type="email" name="email">
