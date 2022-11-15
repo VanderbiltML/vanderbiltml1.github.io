@@ -80,6 +80,8 @@ Check out our introductory video:
 
 # Nominate a speaker
 
+You can either fill out this form or send us an email if you have additional suggestions.
+
 <form
   action="https://formspree.io/f/xgeqdykn"
   method="POST"
@@ -87,11 +89,11 @@ Check out our introductory video:
    <label>
     Your name:
     <input type="text" name="email">
-  </label><br>
+  </label>
   <label>
     Nominee:
     <input type="email" name="email">
-  </label><br>
+  </label>
   <!-- your other form fields go here -->
   <button type="submit">Nominate</button>
 </form>
