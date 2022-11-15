@@ -78,6 +78,28 @@ Check out our introductory video:
 </div>
 {% endfor %}
 
+# Nominate a speaker
+
+<form
+  action="https://formspree.io/f/xgeqdykn"
+  method="POST"
+>
+   <label>
+    Your full name:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Nomminee Information:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
 # About The Seminar
 
 **Seminar Hosts:** Soheil Kolouri, Tyler Derr
@@ -90,18 +112,3 @@ You can reach us at soheil.kolouri [at] vanderbilt [dot] edu.
 
 Website template from the [Stanford MLSys Seminar Series]
 
-<form
-  action="https://formspree.io/f/xgeqdykn"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
