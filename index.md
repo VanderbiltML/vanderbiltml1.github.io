@@ -87,11 +87,11 @@ Check out our introductory video:
    <label>
     Your name:
     <input type="text" name="email">
-  </label>
+  </label><br>
   <label>
     Nominee:
     <input type="email" name="email">
-  </label>
+  </label><br>
   <!-- your other form fields go here -->
   <button type="submit">Nominate</button>
 </form>
