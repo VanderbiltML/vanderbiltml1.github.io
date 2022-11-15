@@ -85,17 +85,13 @@ Check out our introductory video:
   method="POST"
 >
    <label>
-    Your full name:
+    Your name:
     <input type="text" name="email">
-  </label><br>
+  </label>
   <label>
-    Your email:
+    Nominee:
     <input type="email" name="email">
-  </label><br>
-  <label>
-    Nomminee Information:
-    <input type="text" name="speaker"></textarea>
-  </label><br>
+  </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
