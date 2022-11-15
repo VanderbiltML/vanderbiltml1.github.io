@@ -86,19 +86,20 @@ Check out our introductory video:
 >
    <label>
     Your full name:
-    <input type="email" name="email">
-  </label>
+    <input type="text" name="email">
+  </label><br>
   <label>
     Your email:
     <input type="email" name="email">
-  </label>
+  </label><br>
   <label>
     Nomminee Information:
-    <textarea name="message"></textarea>
-  </label>
+    <input type="text" name="speaker"></textarea>
+  </label><br>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
+
 
 # About The Seminar
 
