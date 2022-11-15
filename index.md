@@ -89,3 +89,19 @@ You can reach us at soheil.kolouri [at] vanderbilt [dot] edu.
 <!-- Please uncomment this part if you clone our source code! -->
 
 Website template from the [Stanford MLSys Seminar Series]
+
+<form
+  action="https://formspree.io/f/xgeqdykn"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
