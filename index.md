@@ -91,8 +91,12 @@ You can either fill out this form or send us an email if you have additional sug
     <input type="text" name="email">
   </label>
   <label>
-    Nominee:
+    Your email:
     <input type="email" name="email">
+  </label>
+   <label>
+    Nominee:
+    <input type="text" name="email">
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Nominate</button>
