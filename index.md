@@ -9,7 +9,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 * We are now available in podcast form on [Apple Podcasts](https://podcasts.apple.com/us/podcast/stanford-mlsys-seminar/id1603927994), [Spotify](https://open.spotify.com/show/3NazVHl6ujGuHCjGlN0SCf), and [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83YmRkMzMxNC9wb2RjYXN0L3Jzcw)!
 * Stanford students, check out [CS 528](/cs528), a new course at Stanford running this fall!
 * Our talks this semester are Thursdays 1:30 PM PT!
-* Join our [email list](https://groups.google.com/forum/#!forum/stanford-mlsys-seminars/join) to get notified of the speaker and livestream link every week! 
+* Join our [email list](https://groups.google.com/forum/#!forum/stanford-mlsys-seminars/join) to get notified of the speaker and livestream link every week!
  -->
   <!-- Machine learning is driving exciting changes and progress in computing.
   What does the ubiquity of machine learning mean for how people build and deploy
@@ -63,7 +63,7 @@ Check out our introductory video:
     <br><br>
     <strong>Bio: </strong> {{ talk.bio }}
     {% endif %}
-    
+
     {% if talk.recording %}
       <br><br>
       <strong><a href="{{ talk.recording }}">Video Link</a></strong>
@@ -112,4 +112,3 @@ You can reach us at soheil.kolouri [at] vanderbilt [dot] edu.
 <!-- Please uncomment this part if you clone our source code! -->
 
 Website template from the [Stanford MLSys Seminar Series]
-
