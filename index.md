@@ -50,7 +50,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 You can either fill out this form or email us with additional suggestions. We will review and consider sending the nominee an invite to schedule a talk!
 
 <form
-  action="https://formspree.io/f/xgeqdykn"
+  action="https://formspree.io/f/xdojqjrd"
   method="POST"
 >
   <label>
