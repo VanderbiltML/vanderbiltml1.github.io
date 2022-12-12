@@ -11,11 +11,11 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 * Our talks this semester are Thursdays 1:30 PM PT!
 * Join our [email list](https://groups.google.com/forum/#!forum/stanford-mlsys-seminars/join) to get notified of the speaker and livestream link every week! 
  -->
-<!-- Machine learning is driving exciting changes and progress in computing.
-What does the ubiquity of machine learning mean for how people build and deploy
-systems and applications?
-What challenges does industry face when deploying machine learning systems in
-the real world, and how can academia rise to meet those challenges?
+  <!-- Machine learning is driving exciting changes and progress in computing.
+  What does the ubiquity of machine learning mean for how people build and deploy
+  systems and applications?
+  What challenges does industry face when deploying machine learning systems in
+  the real world, and how can academia rise to meet those challenges?
 
 In this seminar series, we want to take a look at the frontier of machine
 learning systems, and how machine learning changes the modern programming
@@ -58,12 +58,12 @@ Check out our introductory video:
     <details>
     <summary>Abstract</summary>
     {{ talk.abstract }}
-    
+
     {% if talk.bio %}
     <br><br>
     <strong>Bio: </strong> {{ talk.bio }}
     {% endif %}
-
+    
     {% if talk.recording %}
       <br><br>
       <strong><a href="{{ talk.recording }}">Video Link</a></strong>
@@ -80,7 +80,7 @@ Check out our introductory video:
 
 # Nominate a speaker
 
-You can either fill out this form or send us an email if you have additional suggestions. We will review and consider sending the nominee an invite to schedule a talk!
+You can either fill out this form or email us with additional suggestions. We will review and consider sending the nominee an invite to schedule a talk!
 
 <form
   action="https://formspree.io/f/xgeqdykn"
@@ -101,7 +101,9 @@ You can either fill out this form or send us an email if you have additional sug
 
 # About The Seminar
 
-**Seminar Hosts:** Soheil Kolouri, Tyler Derr
+**Seminar Hosts:** [Soheil Kolouri](https://skolouri.github.io/), [Tyler Derr](https://tylersnetwork.github.io/)
+
+**Student Director:** [Huy Tran](https://huytranirl.github.io/)
 
 <!-- **Executive Producers:** Matei Zaharia, Chris Ré. -->
 
