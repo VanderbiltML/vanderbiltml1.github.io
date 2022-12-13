@@ -12,6 +12,12 @@
 
 - type: Previous Talks
   members:
+    - speaker: Hua Wei, New Jersey Institute of Technology
+      date: 10/18/22
+      title: "Towards Actionable Decision-Making in the Real World"
+      abstract: "This talk presents how to utilize data and advanced learning methods for actionable decision-making in the real world.  This talk will use the decision-making in the city as a running example, firstly examining why today we have the opportunity for a potential breakthrough in actionable decision-making. Second, the talk presents our research results in reinforcement learning for traffic signal control which are published in KDD, AAAI, and CIKM conferences. Finally, I would like to discuss the open challenges in this research topic, its implications for actionable decision-making, and our preliminary efforts in addressing these challenges.  "
+      bio: "Hua Wei is an assistant professor in the Department of Informatics at the New Jersey Institute of Technology (NJIT). He obtained his Ph.D. from the Pennsylvania State University. His research interests include reinforcement learning, data mining, and urban computing. His papers have been published at high-impact venues (e.g., NeurIPS, KDD, AAAI, IJCAI, CIKM, ECML-PKDD, etc.).  His research has been awarded the Best Applied Data Science Paper Award at ECML-PKDD 2020 and funded by NSF and the Department of Energy."
+      livestream: https://www.youtube.com/watch?v=D_8MyoKzvrI
     - speaker: Ziv Goldfeld, Cornell University
       date: 10/18/22
       title: "Statistical and Computational Aspect of Sliced Optimal Transport"
