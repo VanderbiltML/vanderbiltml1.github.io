@@ -2,6 +2,9 @@
 layout: default
 meta-description: "Seminar series on the frontier of machine learning. Open to all Vanderbilt CS students Mondays 12:10-1:30 pm. Recordings are available to the public. "
 ---
+**News**:
+
+* Join our [Google Group](https://groups.google.com/forum/#!forum/vanderbiltml/join) for discussions and notifications of weekly seminar talks
 
 {% for category in site.data.talks %}
 # {{ category.type }}
