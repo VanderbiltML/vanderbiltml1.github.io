@@ -157,6 +157,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $darkGray;
+  font-size: 30px;
 
   @include mobile {
     text-align: center;
