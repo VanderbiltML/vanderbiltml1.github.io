@@ -4,7 +4,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 ---
 **News**:
 
-* Join our [Google Group](https://groups.google.com/forum/#!forum/vanderbiltml/join) for discussions and notifications of weekly seminar talks
+* Join our [Google Group](https://groups.google.com/forum/#!forum/vanderbiltml/join) for discussions and notifications of weekly seminar talks.
 
 {% for category in site.data.talks %}
 # {{ category.type }}
