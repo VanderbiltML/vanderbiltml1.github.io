@@ -2,10 +2,10 @@
 layout: default
 meta-description: "Seminar series on the frontier of machine learning. Open to all Vanderbilt CS students Mondays 12:10-1:30 pm. Recordings are available to the public. "
 ---
-**Important**:
+**News**:
 
 * Our talks are on Mondays at 12:10 PM CT and typically last for 1 hour (approximately 45 to 50-minute talk plus Q&A).
-* Join our [Google Group](https://groups.google.com/forum/#!forum/vanderbiltml/join) for discussions and notifications of upcoming seminar talks.
+* Join the [Vanderbilt ML Group](https://groups.google.com/forum/#!forum/vanderbiltml/join) for discussions and notifications of upcoming talks.
 
 {% for category in site.data.talks %}
 # {{ category.type }}
