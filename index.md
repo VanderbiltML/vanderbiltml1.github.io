@@ -4,6 +4,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 ---
 **News**:
 
+* [vu.edu/ML](https://vu.edu/ml/) and [vanderbi.lt/ML](https://vanderbi.lt/ml/) will now redirect to this page.
 * Our talks are on Mondays at 12:10 PM CT and typically last for 1 hour (approximately 45 to 50-minute talk plus Q&A).
 * Join the [Vanderbilt ML Group](https://groups.google.com/forum/#!forum/vanderbiltml/join) for discussions and notifications of upcoming talks.
 
