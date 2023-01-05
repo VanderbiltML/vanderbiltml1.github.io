@@ -4,10 +4,12 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 ---
 **News**:
 
-<div class="news-group">
-   <span>* [vu.edu/ML](https://vu.edu/ml/) and [vanderbi.lt/ML](https://vanderbi.lt/ml/) will now redirect to this page.</span>
-   <span>* Our virtual (Zoom) talks are on Mondays at 12:10 PM CT and typically last for 1 hour (approximately 45 to 50-minute talk plus Q&A). </span>
-   <span>* Join the [MLSS Group](https://groups.google.com/forum/#!forum/vanderbiltmlss/join) for discussions and notifications of upcoming talks. </span>
+<div class="news-group" markdown="1">
+   <span>
+   * [vu.edu/ML](https://vu.edu/ml/) and [vanderbi.lt/ML](https://vanderbi.lt/ml/) will now redirect to this page.
+   * Our virtual (Zoom) talks are on Mondays at 12:10 PM CT and typically last for 1 hour (approximately 45 to 50-minute talk plus Q&A).
+   * Join the [MLSS Group](https://groups.google.com/forum/#!forum/vanderbiltmlss/join) for discussions and notifications of upcoming talks. 
+   </span>
 </div>
 
 {% for category in site.data.talks %}
