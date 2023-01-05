@@ -21,7 +21,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
   <div class="talk-date">{{ talk.date }}</div>
   <div class="talk-presenter">{{ talk.speaker }}</div>
   {% if talk.title %}
-  <div>
+  <div> 
     {% if talk.recording %}
       <span><a class="talk-title-link" href="{{ talk.recording }}">{{ talk.title }} <i class="bi bi-box-arrow-up-right"></i></a></span>
     {% elsif talk.livestream %}
