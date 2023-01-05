@@ -353,6 +353,14 @@ details > summary {
   list-style: none;
 }
 
+// Speaker suggestion
+
+.nomination {
+  @include mobile {
+    text-align: center;
+  }
+}
+
 //Button
 .button1 {
   appearance: none;
