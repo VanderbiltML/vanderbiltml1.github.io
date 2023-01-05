@@ -356,19 +356,19 @@ details > summary {
 //Button
 .button1 {
   appearance: none;
-  background-color: $vandygold;
+  background-color: #F0CE90;
   border: 1px solid rgba(27, 31, 35, .15);
-  border-radius: 6px;
+  border-radius: 4px;
   box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
   box-sizing: border-box;
   color: #fff;
   cursor: pointer;
   display: inline-block;
-  font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  //font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
   font-size: 14px;
   font-weight: 600;
   line-height: 20px;
-  padding: 6px 16px;
+  padding: 3px 8px;
   position: relative;
   text-align: center;
   text-decoration: none;
@@ -395,7 +395,7 @@ details > summary {
 
 
 .button1:active {
-  background-color: #298e46;
+  background-color: $vandygold;
   box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
 }
 
