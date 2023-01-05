@@ -110,6 +110,11 @@ img {
   max-height: 100%;
 }
 
+//Markdown
+.markdown-block a {
+	color: #BF9000 !important;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -300,9 +305,6 @@ footer {
     border-bottom-left-radius: 4px;
 }
 
-.news-link {
-  color: #BF9000;
-}
 
 // Talks
 .talk-date {
