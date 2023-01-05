@@ -57,7 +57,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 
 # Nominate a speaker
 
-You may nominate a well-known speaker by filling out this form (official email is recommended). Other suggestions and arrangement should be sent via email.
+You may nominate a well-known speaker by filling out this form (official email is recommended). Any additional suggestions or arrangements should be sent via email.
 
 <form
   action="https://formspree.io/f/xdojqjrd"
