@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: #BF9000;
+  color: #e7ba2e;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #BF9000;
+    color: #e7ba2e;
   }
 }
 
@@ -317,7 +317,8 @@ footer {
   font-size: 1.1rem;
 }
 
-.talk-title-link {
+.talk-title-
+{
   color: $black;
 }
 
@@ -349,7 +350,7 @@ details > summary::marker {
 
 details > summary {
   cursor: pointer;
-  color: $vandygold;
+  color: #e7ba2e;
   list-style: none;
 }
 
