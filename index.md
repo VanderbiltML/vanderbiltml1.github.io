@@ -6,7 +6,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 
 <div class="news-group">
   <span>
-   <div> * [vu.edu/ML](https://vu.edu/ml/) and [vanderbi.lt/ML](https://vanderbi.lt/ml/) will now redirect to this page. <div>
+   <div> * [vu.edu/ML](https://vu.edu/ml/) and [vanderbi.lt/ML](https://vanderbi.lt/ml/) will now redirect to this page. </div>
    <div> * Our virtual (Zoom) talks are on Mondays at 12:10 PM CT and typically last for 1 hour (approximately 45 to 50-minute talk plus Q&A). </div>
    <div> * Join the [MLSS Group](https://groups.google.com/forum/#!forum/vanderbiltmlss/join) for discussions and notifications of upcoming talks. </div>
   </span>
