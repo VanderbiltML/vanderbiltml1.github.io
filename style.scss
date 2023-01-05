@@ -295,7 +295,7 @@ footer {
 .news-group {
     position: relative;
     display: block;
-    padding: 10px 15px;
+    padding: 0px 0px;
     margin-bottom: -1px;
     border: 1px solid $darkGray;
     background-color: #FEEEB6;
@@ -357,7 +357,7 @@ details > summary {
 
 .nomination {
   @include mobile {
-    max-width: 125px;
+    max-width: 150px;
     overflow: break;
   }
 }
