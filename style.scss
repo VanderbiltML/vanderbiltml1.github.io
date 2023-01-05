@@ -357,7 +357,8 @@ details > summary {
 
 .nomination {
   @include mobile {
-    text-align: center;
+    max-width: 300px;
+    overflow: break;
   }
 }
 
@@ -372,7 +373,6 @@ details > summary {
   color: $darkGray;
   cursor: pointer;
   display: inline-block;
-  //font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
   font-size: 14px;
   font-weight: 600;
   line-height: 20px;
