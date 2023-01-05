@@ -317,8 +317,7 @@ footer {
   font-size: 1.1rem;
 }
 
-.talk-title-
-{
+.talk-title-link {
   color: $black;
 }
 
@@ -350,7 +349,7 @@ details > summary::marker {
 
 details > summary {
   cursor: pointer;
-  color: #E7BA2E;
+  color: #E7;
   list-style: none;
 }
 
