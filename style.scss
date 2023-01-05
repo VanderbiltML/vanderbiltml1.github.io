@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: #e7ba2e;
+  color: #E7BA2E;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #e7ba2e;
+    color: #E7BA2E;
   }
 }
 
@@ -350,7 +350,7 @@ details > summary::marker {
 
 details > summary {
   cursor: pointer;
-  color: #e7ba2e;
+  color: #E7BA2E;
   list-style: none;
 }
 
