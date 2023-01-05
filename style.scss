@@ -357,7 +357,7 @@ details > summary {
 
 .nomination {
   @include mobile {
-    max-width: 100px;
+    max-width: 50px;
     overflow: break;
   }
 }
