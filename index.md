@@ -10,6 +10,9 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 
 {% for category in site.data.talks %}
 # {{ category.type }}
+
+(\*): incoming 
+
 <div class="talk-list">
   {% for talk in category.members %}
   <div class="talk list-group-item">
