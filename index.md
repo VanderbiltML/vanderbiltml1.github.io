@@ -57,7 +57,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 
 # Nominate a speaker
 
-You can either fill out this form or email us with additional suggestions. We will review and consider sending the nominee an invite to schedule a talk!
+You may nominate a well-known speaker by filling out this form (official email is recommended). Other suggestions and arrangement should be sent via email.
 
 <form
   action="https://formspree.io/f/xdojqjrd"
@@ -65,14 +65,14 @@ You can either fill out this form or email us with additional suggestions. We wi
 >
   <label>
     Your email:
-    <input type="email" name="email">
+    <input type="text" autocomplete="off" name="email">
   </label>
    <label>
     Nominee:
-    <input type="text" name="nominee">
+    <input type="text" autocomplete="off" name="nominee">
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Submit</button>
+  <button class="button1" role="button" type="submit">Submit</button>
 </form>
 
 
