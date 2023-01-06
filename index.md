@@ -14,7 +14,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 # {{ category.type }}
 
 
-(\*): incoming 
+
 
 <div class="talk-list">
   {% for talk in category.members %}
@@ -73,6 +73,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
       </div>
     {% endif %}
   {% endfor %}
+  <div class="note">(*): incoming </div> 
 </div>
 {% endfor %}
 
