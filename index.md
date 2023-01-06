@@ -19,7 +19,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 <div class="talk-list">
   {% for talk in category.members %}
     {% if category.type == "Ongoing Talk"%}
-      <div class="current-talk-group"> 
+      <div class="talk current-talk-group"> 
         <div class="current-talk-join-button"><button class="button1" role="button" type="submit" onclick="location.href='https://vanderbilt.zoom.us/j/98156144506'">Join Now</button></div>
         <div class="talk-presenter">{{ talk.speaker }}</div>
         {% if talk.title %}
