@@ -1,3 +1,10 @@
+- type: Ongoing Talk
+  members:
+    - speaker: Parinaz Naghizadeh, OSU
+      title: "This is the current talk"
+      date: 01/23/2023
+      abstract: TBD    
+
 - type: Upcoming Talks
   members:
     - speaker: Parinaz Naghizadeh, OSU
@@ -33,13 +40,13 @@
       title: "Towards Actionable Decision-Making in the Real World"
       abstract: "This talk presents how to utilize data and advanced learning methods for actionable decision-making in the real world.  This talk will use the decision-making in the city as a running example, firstly examining why today we have the opportunity for a potential breakthrough in actionable decision-making. Second, the talk presents our research results in reinforcement learning for traffic signal control which are published in KDD, AAAI, and CIKM conferences. Finally, I would like to discuss the open challenges in this research topic, its implications for actionable decision-making, and our preliminary efforts in addressing these challenges.  "
       bio: "Hua Wei is an assistant professor in the Department of Informatics at the New Jersey Institute of Technology (NJIT). He obtained his Ph.D. from the Pennsylvania State University. His research interests include reinforcement learning, data mining, and urban computing. His papers have been published at high-impact venues (e.g., NeurIPS, KDD, AAAI, IJCAI, CIKM, ECML-PKDD, etc.).  His research has been awarded the Best Applied Data Science Paper Award at ECML-PKDD 2020 and funded by NSF and the Department of Energy."
-      livestream: https://www.youtube.com/watch?v=D_8MyoKzvrI
+      recording: https://www.youtube.com/watch?v=D_8MyoKzvrI
     - speaker: Ziv Goldfeld, Cornell University
       date: 10/18/22
       title: "Statistical and Computational Aspect of Sliced Optimal Transport"
       abstract: "As machine learning/inference tasks boil down to comparing or transforming complicated probability distributions, optimal transport (OT) theory---which provides a potent framework for doing so---has emerged as a tool of choice for design and analysis. Its adoption was driven by an array of favorable properties, including robustness to support mismatch, a powerful duality theory, and the Wasserstein metric it defines on the space of probability measures, which endows it with a rich geometry. Alas, statistical OT is bottlenecked by the curse of dimensionality, whereby quantitative results either deteriorate exponentially with dimension or are largely unavailable (e.g., limit theorems, resampling, efficiency). In turn, resulting performance bounds for OT-based learning methods are often vacuous or, worse yet, missing. Slicing is a modern regularization technique by which one computes the average/maximized OT distance between different low-dimensional projections of the high-dimensional distributions. This framework inherits many structural properties of classical OT but alleviates the empirical curse of dimensionality. This talk will present recent advancements in the statistical and computational analysis of sliced OT methods. We will cover fast empirical convergence rates, high-dimensional limit distribution theorems, as well as formal guarantees for computational methods such as Monte Carlo integration (for average-slicing) and projected subgradient methods (for max-slicing). Applications to implicit generative modeling will be discussed and serve to motivate the statistical exploration."
       bio: "Ziv Goldfeld is an assistant professor in the School of Electrical and Computer Engineering, and a graduate field member in Computer Science, Statistics, Data Science, and the Center of Applied Mathematics, at Cornell University. Before joining Cornell, he was a postdoctoral research fellow in LIDS at MIT. Ziv graduated with a B.Sc., M.Sc., and Ph.D. (all summa cum laude) in Electrical and Computer Engineering from Ben Gurion University, Israel. Ziv’s research interests include optimal transport theory, statistical learning theory, information theory, and mathematical statistics. He seeks to understand the theoretical foundations of modern inference and information processing systems by formulating and solving mathematical models. Honors include the NSF CAREER Award, the IBM University Award, and the Rothschild Postdoctoral Fellowship."
-      livestream: https://www.youtube.com/watch?v=QpwovtmCKx0&list=PLExMLJgvoXpizhYU-phqbTFiRNNkICJ_L&index=1
+      recording: https://www.youtube.com/watch?v=QpwovtmCKx0&list=PLExMLJgvoXpizhYU-phqbTFiRNNkICJ_L&index=1
     - speaker: Baharan Mirzasoleiman, UCLA
       date: 9/20/22
       title: "Coresets for Efficient and Robust Learning from Massive Datasets"
