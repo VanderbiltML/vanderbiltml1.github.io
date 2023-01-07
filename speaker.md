@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title:  Speaker matters
 permalink: /speaker/
 ---
 
@@ -9,20 +9,33 @@ permalink: /speaker/
 
 You may nominate a speaker (including yourself) by filling out this form. Additional suggestions or arrangements should be communicated via email.
 
-<div class="nomination">
+<br>
+
+<div class="center-div">
+<div class="form">
 <form
-  action="https://formspree.io/f/xdojqjrd"
+  action="https://formspree.io/f/xdojqjrdaaa"
   method="POST"
 >
-  <label>
-    Your (official) email:
-    <input type="text" class="textbox" autocomplete="off" name="email">
-  </label>
-   <label>
-    Your nominee:
-    <input type="text" class="textbox" autocomplete="off" name="nominee">
-  </label>
+  <label for="email" class="label">Your official email: </label>
+  <br>
+  <div class="textbox-container ic">  
+    <input type="text" autocomplete="off" name="email" id="email" class="textbox">
+  </div>
+  <label for="nominee" class="label">Your nominee: </label>
+  <br>
+  <div class="textbox-container ic">
+    <input type="text" autocomplete="off" name="nominee" id="nominee" class="textbox">
+  </div>
+  <label for="qualifications" class="label">Qualifications of the nominee: (if needed) </label>
+  <br>
+  <div class="textbox-container ic">
+    <textarea type="text" autocomplete="off" name="qualifications" id="qualifications" class="textbox qual"></textarea>
+  </div>
   <!-- your other form fields go here -->
-  <button class="button1" role="button" type="submit">Submit</button>
+  <button class="button1 ic1 submit-button" role="button" type="submit">Submit</button>
+
 </form>
+
+</div>
 </div>
