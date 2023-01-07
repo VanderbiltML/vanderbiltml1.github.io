@@ -391,7 +391,7 @@ details > summary {
   box-sizing: border-box;
   height: 470px;
   padding: 20px;
-  width: 84%;
+  width: 72%;
   display:inline-block;
   //position:relative;
   margin: 0 auto;
@@ -408,6 +408,7 @@ details > summary {
   border: 1px dotted $darkGray;
   padding: 0px 10px;
   height: 60%;
+  font-size: large;
   background-color: $ivory;
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
