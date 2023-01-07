@@ -26,7 +26,7 @@ You may nominate a speaker (including yourself) by filling out this form. Additi
   <div class="textbox-container ic">
     <input type="text" autocomplete="off" name="nominee" id="nominee" class="textbox">
   </div>
-  <label for="qualifications" class="label">Qualifications of the nominee: (if needed) </label>
+  <label for="qualifications" class="label">Summary of Qualifications:</label>
   <br>
   <div class="textbox-container ic">
     <textarea type="text" autocomplete="off" name="qualifications" id="qualifications" class="textbox qual"></textarea>
