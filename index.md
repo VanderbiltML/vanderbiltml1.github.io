@@ -78,5 +78,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 <div class="note">(*): incoming </div> 
 {% endfor %}
 
+** Older talks can be found in Archives. **
+
 
 
