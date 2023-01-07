@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 
+title:  
 permalink: /speaker/
 ---
+
 
 ### For the audience
 
