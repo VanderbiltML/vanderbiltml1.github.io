@@ -391,12 +391,16 @@ details > summary {
   box-sizing: border-box;
   height: 470px;
   padding: 20px;
-  width: 72%;
+  width: 65%;
   display:inline-block;
   //position:relative;
   margin: 0 auto;
   justify-content: center;
   align-items: center;
+  
+	@include mobile {
+    width:100%
+  }
   
 }
 .center-div {
