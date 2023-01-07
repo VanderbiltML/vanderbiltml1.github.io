@@ -4,7 +4,7 @@ title:
 permalink: /speaker/
 ---
 
-### Nominate a speaker
+### For the audience
 
 You may nominate a speaker (including yourself) by filling out this form. Additional suggestions or arrangements should be communicated via email.
 
