@@ -92,7 +92,7 @@ You may nominate a well-known speaker by filling out this form. Additional sugge
     <input type="text" class="textbox" autocomplete="off" name="email">
   </label>
    <label>
-    Nominee:
+    Your nominee:
     <input type="text" class="textbox" autocomplete="off" name="nominee">
   </label>
   <!-- your other form fields go here -->
