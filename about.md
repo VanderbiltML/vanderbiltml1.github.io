@@ -17,3 +17,5 @@ You may reach us at soheil [dot] kolouri [at] vanderbilt [dot] edu.
 
 
 Website template adapted from the [Stanford MLSys Seminar Series]
+
+{% include socials.html %}
