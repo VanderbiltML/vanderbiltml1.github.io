@@ -444,6 +444,12 @@ details > summary {
   box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
 }
 
+//Socials
+
+.socials {
+  text-align:center;
+  width: 100%;
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
