@@ -16,7 +16,7 @@ You may reach us at soheil [dot] kolouri [at] vanderbilt [dot] edu.
 
 ### Acknowledgements
 
-Website template adapted from the [Stanford MLSys Seminar Series]
+Website template adapted from the [Stanford MLSys Seminar Series].
 
 
 {% include socials.html %}
