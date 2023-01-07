@@ -8,7 +8,7 @@ permalink: /about/
 
 **Seminar Hosts:** [Soheil Kolouri](https://skolouri.github.io/), [Tyler Derr](https://tylersnetwork.github.io/)
 
-**Student Director:** [Huy Tran](https://huytranirl.github.io/)
+**Student Director:** Huy Tran
 
 
 
@@ -17,5 +17,6 @@ You may reach us at soheil [dot] kolouri [at] vanderbilt [dot] edu.
 
 
 Website template adapted from the [Stanford MLSys Seminar Series]
+
 
 {% include socials.html %}
