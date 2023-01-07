@@ -73,8 +73,9 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
       </div>
     {% endif %}
   {% endfor %}
-  <div class="note">(*): incoming </div> 
+  
 </div>
+<div class="note">(*): incoming </div> 
 {% endfor %}
 
 # Nominate a speaker
