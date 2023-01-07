@@ -406,13 +406,17 @@ details > summary {
 //Textbox
 .textbox {
   border: 1px dotted $darkGray;
-  padding: 0 13px;
-  height: 27px;
+  padding: 0px 10px;
+  height: 60%;
   background-color: $ivory;
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;  
+  border-bottom-left-radius: 10px; 
+  box-sizing: border-box;
+  display: flex;
+  width: 100%;
+  outline: 0;
 }
 .textbox:focus {
   background: #FEEEB6;
