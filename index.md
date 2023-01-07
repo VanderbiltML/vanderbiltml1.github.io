@@ -2,9 +2,9 @@
 layout: default
 meta-description: "Seminar series on the frontier of machine learning. Open to all Vanderbilt CS students Mondays 12:10-1:30 pm. Recordings are available to the public. "
 ---
-**News**:
+**Announcements**:
 
-<div class="news-group" markdown="1">
+<div class="announcement-group" markdown="1">
    * [vu.edu/ML](https://vu.edu/ml/) and [vanderbi.lt/ML](https://vanderbi.lt/ml/) will now redirect to this page.
    * Our virtual (Zoom) talks are on Mondays at 12:10 PM CT and typically last for 1 hour (approximately 45 to 50-minute talk plus Q&A).
    * Join the [MLSS Group](https://groups.google.com/forum/#!forum/vanderbiltmlss/join) for discussions and notifications of upcoming talks. 
