@@ -1,9 +1,9 @@
-# - type: Ongoing Talk
-#   members:
-#     - speaker: Parinaz Naghizadeh, OSU
-#       title: "This is the current talk"
-#       date: 01/23/2023
-#       abstract: TBD    
+- type: Ongoing Talk
+  members:
+    - speaker: Parinaz Naghizadeh, OSU
+      title: "This is the current talk"
+      date: 01/23/2023
+      abstract: TBD    
 
 - type: Upcoming Talks
   members:
