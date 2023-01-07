@@ -398,7 +398,10 @@ details > summary {
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;  
 }
-
+.textbox:focus {
+  background: #FEEEB6;
+  outline: none;
+}
 //Button
 .button1 {
   appearance: none;
