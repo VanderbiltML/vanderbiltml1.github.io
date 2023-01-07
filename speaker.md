@@ -14,7 +14,7 @@ You may nominate a speaker (including yourself) by filling out this form. Additi
 <div class="center-div">
 <div class="form">
 <form
-  action="https://formspree.io/f/xdojqjrdaaa"
+  action="https://formspree.io/f/xdojqjrd"
   method="POST"
 >
   <label for="email" class="label">Your official email: </label>
