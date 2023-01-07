@@ -2,24 +2,24 @@ email:
   id: 'soheil.kolouri@vanderbilt.edu'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope-square'
+  fa-icon: 'fa-envelope'
 
 
 twitter:
-  id: ''
+  id: 'vanderbiltmlss'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
+  fa-icon: 'fa-twitter'
 
 
 linkedin:
-  id: ''
+  id: 'vanderbiltmlss'
   href: 'https://www.linkedin.com/'
   title: 'LinkedIn'
-  fa-icon: 'fa-linkedin-square'
+  fa-icon: 'fa-linkedin'
 
 instagram:
-  id: ''
+  id: 'vanderbiltmlss'
   href: 'https://www.instagram.com/'
   title: 'Instagram'
-  fa-icon: 'fa-instagram-square'
+  fa-icon: 'fa-instagram'
