@@ -4,10 +4,9 @@ title:  Speaker matters
 permalink: /speaker/
 ---
 
-
 ### For the audience
 
-You may nominate a speaker (including yourself) by filling out this form. Additional suggestions or arrangements should be communicated via email.
+You may nominate a well-qualified speaker (including yourself) by filling out this form. Additional comments or suggestions should be communicated via email.
 
 
 <div class="center-div">
