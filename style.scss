@@ -378,13 +378,29 @@ details > summary {
   list-style: none;
 }
 
-// Speaker suggestion
+//Form related
 
-.nomination {
-  @include mobile {
-    max-width: 150px;
-    overflow: break;
-  }
+label{
+  float: left;  
+}
+
+.form {
+  background-color: $ivory;
+  border: 1px dotted $darkGray;
+  border-radius: 20px;
+  box-sizing: border-box;
+  height: 470px;
+  padding: 20px;
+  width: 70%;
+  display:inline-block;
+  //position:relative;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  
+}
+.center-div {
+  text-align: center;
 }
 
 //Textbox
@@ -402,6 +418,29 @@ details > summary {
   background: #FEEEB6;
   outline: none;
 }
+
+.qual {
+  padding-top: 10px;
+  resize: none;
+  white-space: pre-wrap;
+  height: 200%;
+}
+
+.textbox-container {
+  height: 60px;
+  position: relative;
+  width: 100%;
+}
+
+.ic {
+  margin-top: 20px;
+}
+
+.ic1 {
+  margin-top: 80px !important;
+}
+
+
 //Button
 .button1 {
   appearance: none;
@@ -445,6 +484,12 @@ details > summary {
 .button1:active {
   background-color: $vandygold;
   box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+}
+
+
+.submit-button {
+  display: block !important;
+  margin: auto;
 }
 
 //Socials
