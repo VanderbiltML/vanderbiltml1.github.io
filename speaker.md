@@ -3,8 +3,13 @@ layout: page
 title:  Speaker matters
 permalink: /speaker/
 ---
+### For our current/past guest speakers
 
-### For the audience
+* Please send us an email if you would like to update your information on this website, schedule another talk, or suggest a speaker.
+
+* Stay conencted with us and other guest speakers by joining [our community](https://groups.google.com/forum/#!forum/vmlss-alumni/join). 
+
+### For the audience at Vanderbilt and partner institutions
 
 You may nominate a well-qualified speaker (including yourself) by filling out this form. Additional comments or suggestions should be communicated via email.
 
@@ -37,3 +42,8 @@ You may nominate a well-qualified speaker (including yourself) by filling out th
 
 </div>
 </div>
+
+  
+### For the public
+  
+Please send us an email for all matters.
