@@ -2,7 +2,7 @@
 layout: default
 meta-description: "Seminar series on the frontier of machine learning. Open to all Vanderbilt CS students Mondays 12:10-1:30 pm. Recordings are available to the public. "
 ---
-**Announcements**:
+## Announcements
 
 <div class="announcement-group" markdown="1">
    * [vu.edu/ML](https://vu.edu/ml/) and [vanderbi.lt/ML](https://vanderbi.lt/ml/) will now redirect to this page.
@@ -11,7 +11,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 </div>
 
 {% for category in site.data.talks %}
-# {{ category.type }}
+## {{ category.type }}
 
 
 
@@ -78,7 +78,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
 <div class="note">(*): incoming </div> 
 {% endfor %}
 
-# Nominate a speaker
+## Nominate a speaker
 
 You may nominate a well-known speaker by filling out this form. Additional suggestions or arrangements should be communicated via email.
 
@@ -101,16 +101,16 @@ You may nominate a well-known speaker by filling out this form. Additional sugge
 </div>
 
 
-# About The Seminar
+## About The Seminar
 
 **Seminar Hosts:** [Soheil Kolouri](https://skolouri.github.io/), [Tyler Derr](https://tylersnetwork.github.io/)
 
 **Student Director:** [Huy Tran](https://huytranirl.github.io/)
 
-<!-- **Executive Producers:** Matei Zaharia, Chris Ré. -->
 
-You can reach us at soheil.kolouri [at] vanderbilt [dot] edu.
 
-<!-- Please uncomment this part if you clone our source code! -->
+You can reach us at soheil [dot] kolouri [at] vanderbilt [dot] edu.
 
-Website template from the [Stanford MLSys Seminar Series]
+
+
+Website template adapted from the [Stanford MLSys Seminar Series]
