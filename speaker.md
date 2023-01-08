@@ -7,7 +7,7 @@ permalink: /speaker/
 
 * Please send us an email if you would like to update your information on this website, schedule another talk, or suggest a speaker.
 
-* Stay conencted with us and other guest speakers by joining [our community](https://groups.google.com/forum/#!forum/vmlss-alumni/join). 
+* Stay connected with us and other guest speakers by joining [our community](https://groups.google.com/forum/#!forum/vmlss-alumni/join). 
 
 ### For the audience at Vanderbilt and partner institutions
 
