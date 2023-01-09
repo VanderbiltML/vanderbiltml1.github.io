@@ -398,7 +398,7 @@ details > summary {
   justify-content: center;
   align-items: center;
   
-	@include mobile {
+  @include mobile {
     width:100%
   }
   
@@ -422,6 +422,7 @@ details > summary {
   display: flex;
   width: 100%;
   outline: 0;
+  font: $sourceSansPro;
 }
 .textbox:focus {
   background: #FEEEB6;
@@ -433,6 +434,8 @@ details > summary {
   resize: none;
   white-space: pre-wrap;
   height: 200%;
+  font-size: large;
+  font: $sourceSansPro;
 }
 
 .textbox-container {
