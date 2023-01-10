@@ -4,7 +4,7 @@ title: About the seminar
 permalink: /about/
 ---
 
-**Faculty Sponsors:** [Soheil Kolouri](https://skolouri.github.io/), [Tyler Derr](https://tylersnetwork.github.io/)
+**Faculty Sponsors:** [Soheil Kolouri](https://skolouri.github.io/), [Tyler Derr](https://tylersnetwork.github.io/), [Daniel Moyer](https://dcmoyer.github.io/)
 
 **Seminar Hosts:** [Soheil Kolouri](https://skolouri.github.io/), [Tyler Derr](https://tylersnetwork.github.io/)
 
