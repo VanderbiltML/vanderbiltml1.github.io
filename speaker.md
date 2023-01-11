@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Speaker matters
+title:  Speaker Hub
 permalink: /speaker/
 ---
 ### For our current/past guest speakers
@@ -46,4 +46,4 @@ You may nominate a well-qualified speaker (including yourself) by filling out th
   
 ### For the public
   
-Please send us an email for all matters.
+Please send us an email for all speaker-related inquiries.
