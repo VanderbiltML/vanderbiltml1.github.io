@@ -1,15 +1,18 @@
 # - type: Ongoing Talk
 #   members:
-#     - speaker: Parinaz Naghizadeh, OSU
-#       title: "This is the current talk"
-#       date: 01/23/2023
-#       abstract: TBD    
+#    - speaker: Parinaz Naghizadeh, OSU
+#      date: 01/23/2023
+#      title: "Social Bias Meets Data Bias: Biased Training Data and Fair AI"
+#      abstract: "Biases in existing training datasets used in algorithmic decision making, which can arise due to, e.g., prior labeling or feature measurement errors, raise ethical and economic concerns due to the resulting disparate treatment of different groups. In this talk, we will first investigate the robustness of a few existing (demographic) fairness criteria when the algorithm is trained on biased data. We show, both analytically and numerically, that some constraints can remain robust when facing certain forms of statistical bias in the training data. I will then briefly talk about an algorithm for sequential debiasing of such datasets through adaptive and bounded exploration. This is joint work with Yiqiao Liao, Yifan Yang, and Yang Liu."
+#      bio: "Parinaz Naghizadeh is an assistant professor in the Integrated Systems Engineering and Electrical and Computer Engineering departments at The Ohio State University. Prior to joining OSU in 2019, she was a postdoctoral researcher at Purdue University and Princeton University. She received her PhD in electrical engineering from the University of Michigan in 2016. Her research interests are in network economics, game theory, algorithmic economics, and reinforcement learning. She is a recipient of the NSF CAREER award in 2022, a Rising Stars in EECS in 2017, and a Barbour Scholarship in 2014."
 
 - type: Upcoming Talks
   members:
     - speaker: Parinaz Naghizadeh, OSU
       date: 01/23/2023
-      abstract: TBD
+      title: "Social Bias Meets Data Bias: Biased Training Data and Fair AI"
+      abstract: "Biases in existing training datasets used in algorithmic decision making, which can arise due to, e.g., prior labeling or feature measurement errors, raise ethical and economic concerns due to the resulting disparate treatment of different groups. In this talk, we will first investigate the robustness of a few existing (demographic) fairness criteria when the algorithm is trained on biased data. We show, both analytically and numerically, that some constraints can remain robust when facing certain forms of statistical bias in the training data. I will then briefly talk about an algorithm for sequential debiasing of such datasets through adaptive and bounded exploration. This is joint work with Yiqiao Liao, Yifan Yang, and Yang Liu."
+      bio: "Parinaz Naghizadeh is an assistant professor in the Integrated Systems Engineering and Electrical and Computer Engineering departments at The Ohio State University. Prior to joining OSU in 2019, she was a postdoctoral researcher at Purdue University and Princeton University. She received her PhD in electrical engineering from the University of Michigan in 2016. Her research interests are in network economics, game theory, algorithmic economics, and reinforcement learning. She is a recipient of the NSF CAREER award in 2022, a Rising Stars in EECS in 2017, and a Barbour Scholarship in 2014."
     - speaker: Animesh Garg, NVIDIA / UofT / Georgia Tech (*)
       date: 01/30/2023
       abstract: TBD
