@@ -25,7 +25,7 @@ meta-description: "Seminar series on the frontier of machine learning. Open to a
   {% for talk in category.members %}
     {% if category.type == "Ongoing Talk"%}
       <div class="talk current-talk-group"> 
-        <div class="current-talk-join-button"><button class="button1" role="button" type="submit" onclick="location.href='https://vanderbilt.zoom.us/j/98156144506'">Join Now</button></div>
+        <div class="current-talk-join-button"><button class="button1" role="button" type="submit" onclick="location.href=' https://vanderbilt.zoom.us/webinar/tJArf-mtpjIvHNX4cJmEHA3xGUI-Rv40c9xD/ics?icsToken=98tyKuCsqDMqH9yctR-GRowIBIqgc-_xiFhYgo1lyBzPDgV7Q1DuEddrf4BpRIjT'">Join Now</button></div>
         <div class="talk-presenter">{{ talk.speaker }}</div>
         {% if talk.title %}
           <span>{{ talk.title }}</span>
