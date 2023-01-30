@@ -39,7 +39,7 @@
 
 - type: Previous Talks
   members:
-   - speaker: Animesh Garg, NVIDIA / UofT / Georgia Tech (*)
+   -  speaker: Animesh Garg, NVIDIA / UofT / Georgia Tech (*)
       date: 01/30/2023
       title: "Building Blocks of Generalizable Autonomy: Duality of Discovery & Bias"
       abstract: "Generalization in embodied intelligence, such as in robotics, requires interactive learning across families of tasks is essential for discovering efficient representation and inference mechanisms. Concurrent systems need a lot of hand-holding to even learn a single cognitive concept or a dexterous skill, say “open a door”, let alone generalizing to new windows and cupboards! This is far from our vision of everyday robots! would require a broader concept of generalization and continual update of representations. This study of the science of embodied AI opens three key questions: (a) Representational biases & Causal inference for interactive decision-making, (b) Perceptual representations learned by and for interaction, and (c) Systems and abstractions for scalable learning."
