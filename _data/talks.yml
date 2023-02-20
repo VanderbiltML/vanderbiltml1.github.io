@@ -1,10 +1,10 @@
-- type: Happening Today
-  members:
-    - speaker: Thomas Kipf, Google Research
-      date: 02/20/2023
-      title: "Structured Scene Understanding: Objects, Dynamics, 3D"
-      abstract: "The world around us — and our understanding of it — is rich in compositional structure: from atoms and their interactions to objects and agents in our environments. How can we learn scalable models of the physical world that capture this structure from raw, unstructured observations? In this talk, I will cover our team’s recent work on structured scene understanding: I will introduce an emergent class of slot-centric neural architectures that use a set of latent variables (“slots”) grounded in the physical scene. Slots are decoupled from the image grid and can learn to capture objects or more fine-grained scene components, model their dynamics, and learn 3D-consistent representations when a scene is observed from multiple viewpoints. I will briefly introduce the Slot Attention mechanism as a core representative for this class of models and cover recent extensions to video (SAVi, SAVi++), 3D (OSRT), and visual dynamics simulation (SlotFormer)."
-      bio: "Thomas Kipf is a Senior Research Scientist at Google Brain in Amsterdam. His research focuses on developing machine learning models that can reason about the rich structure of the physical world. He obtained his PhD from the University of Amsterdam with a thesis on “Deep Learning with Graph-Structured Representations”, advised by Max Welling. He was recently elected as an ELLIS Scholar and received the ELLIS PhD Award."
+# - type: Happening Today
+#   members:
+#     - speaker: Thomas Kipf, Google Research
+#       date: 02/20/2023
+#       title: "Structured Scene Understanding: Objects, Dynamics, 3D"
+#       abstract: "The world around us — and our understanding of it — is rich in compositional structure: from atoms and their interactions to objects and agents in our environments. How can we learn scalable models of the physical world that capture this structure from raw, unstructured observations? In this talk, I will cover our team’s recent work on structured scene understanding: I will introduce an emergent class of slot-centric neural architectures that use a set of latent variables (“slots”) grounded in the physical scene. Slots are decoupled from the image grid and can learn to capture objects or more fine-grained scene components, model their dynamics, and learn 3D-consistent representations when a scene is observed from multiple viewpoints. I will briefly introduce the Slot Attention mechanism as a core representative for this class of models and cover recent extensions to video (SAVi, SAVi++), 3D (OSRT), and visual dynamics simulation (SlotFormer)."
+#       bio: "Thomas Kipf is a Senior Research Scientist at Google Brain in Amsterdam. His research focuses on developing machine learning models that can reason about the rich structure of the physical world. He obtained his PhD from the University of Amsterdam with a thesis on “Deep Learning with Graph-Structured Representations”, advised by Max Welling. He was recently elected as an ELLIS Scholar and received the ELLIS PhD Award."
 
 - type: Upcoming Talks
   members: 
@@ -31,6 +31,11 @@
 
 - type: Previous Talks
   members:
+    - speaker: Thomas Kipf, Google Research
+      date: 02/20/2023
+      title: "Structured Scene Understanding: Objects, Dynamics, 3D"
+      abstract: "The world around us — and our understanding of it — is rich in compositional structure: from atoms and their interactions to objects and agents in our environments. How can we learn scalable models of the physical world that capture this structure from raw, unstructured observations? In this talk, I will cover our team’s recent work on structured scene understanding: I will introduce an emergent class of slot-centric neural architectures that use a set of latent variables (“slots”) grounded in the physical scene. Slots are decoupled from the image grid and can learn to capture objects or more fine-grained scene components, model their dynamics, and learn 3D-consistent representations when a scene is observed from multiple viewpoints. I will briefly introduce the Slot Attention mechanism as a core representative for this class of models and cover recent extensions to video (SAVi, SAVi++), 3D (OSRT), and visual dynamics simulation (SlotFormer)."
+      bio: "Thomas Kipf is a Senior Research Scientist at Google Brain in Amsterdam. His research focuses on developing machine learning models that can reason about the rich structure of the physical world. He obtained his PhD from the University of Amsterdam with a thesis on “Deep Learning with Graph-Structured Representations”, advised by Max Welling. He was recently elected as an ELLIS Scholar and received the ELLIS PhD Award."
     - speaker: Brandon Amos, Meta AI
       date: 02/13/2023
       title: "Learning with differentiable and amortized optimization"
