@@ -1,4 +1,5 @@
 - type: Happening Today
+  members:
     - speaker: Guanya Shi, University of Washington / CMU (*)
       date: 02/27/2023
       title: "Neural-Control Family: Safe Agile Deep-learning-based Robotic Control in Dynamic Environments"
