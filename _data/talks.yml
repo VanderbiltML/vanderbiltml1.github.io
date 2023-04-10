@@ -1,10 +1,10 @@
-- type: Happening Today
-  members:
-    - speaker: Yang Song, OpenAI / Caltech (*)
-      date: 04/10/2023
-      title: "Breaking the Curse of Dimensionality in Generative Modeling: A Homotopic Approach"
-      abstract: "Generative modeling for high-dimensional data, such as images and audio, is extremely challenging due to the curse of dimensionality. To overcome this difficulty, I introduce a homotopic approach inspired by numerical equation solving, which involves designing a homotopy of probability distributions that smoothly progresses from simple noise distribution to complex data distribution. I will present two families of approaches that rely on such homotopies: score-based diffusion models and consistency models. Both approaches use a differential equation to convert data to noise and learn to estimate the time reversal with deep neural networks. These models allow for flexible neural networks, enable zero-shot image editing, and generate high-quality samples that achieve state-of-the-art performance in many generative modeling benchmarks."
-      bio: "Yang Song is a research scientist at OpenAI and an incoming Assistant Professor at Caltech. His research interest is in deep generative models, inverse problem solving and AI safety. His research has been recognized with an Outstanding Paper Award at ICLR-2021, an Apple PhD Fellowship in AI/ML, a J.P. Morgan PhD Fellowship, and a WAIC rising star award."
+# - type: Happening Today
+#   members:
+#     - speaker: Yang Song, OpenAI / Caltech (*)
+#       date: 04/10/2023
+#       title: "Breaking the Curse of Dimensionality in Generative Modeling: A Homotopic Approach"
+#       abstract: "Generative modeling for high-dimensional data, such as images and audio, is extremely challenging due to the curse of dimensionality. To overcome this difficulty, I introduce a homotopic approach inspired by numerical equation solving, which involves designing a homotopy of probability distributions that smoothly progresses from simple noise distribution to complex data distribution. I will present two families of approaches that rely on such homotopies: score-based diffusion models and consistency models. Both approaches use a differential equation to convert data to noise and learn to estimate the time reversal with deep neural networks. These models allow for flexible neural networks, enable zero-shot image editing, and generate high-quality samples that achieve state-of-the-art performance in many generative modeling benchmarks."
+#       bio: "Yang Song is a research scientist at OpenAI and an incoming Assistant Professor at Caltech. His research interest is in deep generative models, inverse problem solving and AI safety. His research has been recognized with an Outstanding Paper Award at ICLR-2021, an Apple PhD Fellowship in AI/ML, a J.P. Morgan PhD Fellowship, and a WAIC rising star award."
 
 - type: Upcoming Talks
   members: 
@@ -26,6 +26,11 @@
 
 - type: Previous Talks
   members:
+    - speaker: Yang Song, OpenAI / Caltech (*)
+      date: 04/10/2023
+      title: "Breaking the Curse of Dimensionality in Generative Modeling: A Homotopic Approach"
+      abstract: "Generative modeling for high-dimensional data, such as images and audio, is extremely challenging due to the curse of dimensionality. To overcome this difficulty, I introduce a homotopic approach inspired by numerical equation solving, which involves designing a homotopy of probability distributions that smoothly progresses from simple noise distribution to complex data distribution. I will present two families of approaches that rely on such homotopies: score-based diffusion models and consistency models. Both approaches use a differential equation to convert data to noise and learn to estimate the time reversal with deep neural networks. These models allow for flexible neural networks, enable zero-shot image editing, and generate high-quality samples that achieve state-of-the-art performance in many generative modeling benchmarks."
+      bio: "Yang Song is a research scientist at OpenAI and an incoming Assistant Professor at Caltech. His research interest is in deep generative models, inverse problem solving and AI safety. His research has been recognized with an Outstanding Paper Award at ICLR-2021, an Apple PhD Fellowship in AI/ML, a J.P. Morgan PhD Fellowship, and a WAIC rising star award."
     - speaker: Petar Veličković, DeepMind / University of Cambridge
       date: 03/27/2023
       title: "Reasoning Algorithmically: from Toy Experiments to AGI Modules"
