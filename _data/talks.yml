@@ -1,10 +1,10 @@
-- type: Happening Today
-  members:
-    - speaker: Diederik P. (Durk) Kingma, Google
-      date: 04/17/2023
-      title: "Infinitely Deep Learning"
-      abstract: "Diffusion models have demonstrated amazing abilities for image and video generation. In this talk we explain some recent breakthroughs in understanding state-of-the-art diffusion models as infinitely deep variational autoencoders (VAEs). We start by introducing VAEs. Twe then introduce continuous-time diffusion models as infinitely deep VAEs, and how to optimize their evidence lower bound (ELBO). Finally, we present a new result that explains the objective functions used in state-of-the-art (SOTA) diffusion models as the ELBO with simple data augmentation. This opens up new avenues for optimizing other model families with the same objective as successful diffusion models. We will list some interesting open research questions in the diffusion model space."
-      bio: "Diederik P. (Durk) Kingma is a machine learning researcher at Google, with a focus on generative models. His contributions include the Variational Autoencoder (VAE), the Adam optimizer, Glow, and Variational Diffusion Models. He obtained a PhD (cum laude) from University of Amsterdam in 2017, and was part of the founding team of OpenAI in 2015."
+# - type: Happening Today
+#   members:
+#     - speaker: Diederik P. (Durk) Kingma, Google Research
+#       date: 04/17/2023
+#       title: "Infinitely Deep Learning"
+#       abstract: "Diffusion models have demonstrated amazing abilities for image and video generation. In this talk we explain some recent breakthroughs in understanding state-of-the-art diffusion models as infinitely deep variational autoencoders (VAEs). We start by introducing VAEs. Twe then introduce continuous-time diffusion models as infinitely deep VAEs, and how to optimize their evidence lower bound (ELBO). Finally, we present a new result that explains the objective functions used in state-of-the-art (SOTA) diffusion models as the ELBO with simple data augmentation. This opens up new avenues for optimizing other model families with the same objective as successful diffusion models. We will list some interesting open research questions in the diffusion model space."
+#       bio: "Diederik P. (Durk) Kingma is a machine learning researcher at Google, with a focus on generative models. His contributions include the Variational Autoencoder (VAE), the Adam optimizer, Glow, and Variational Diffusion Models. He obtained a PhD (cum laude) from University of Amsterdam in 2017, and was part of the founding team of OpenAI in 2015."
 
 - type: Upcoming Talks
   members: 
@@ -23,6 +23,11 @@
 
 - type: Previous Talks
   members:
+    - speaker: Diederik P. (Durk) Kingma, Google Research
+      date: 04/17/2023
+      title: "Infinitely Deep Learning"
+      abstract: "Diffusion models have demonstrated amazing abilities for image and video generation. In this talk we explain some recent breakthroughs in understanding state-of-the-art diffusion models as infinitely deep variational autoencoders (VAEs). We start by introducing VAEs. Twe then introduce continuous-time diffusion models as infinitely deep VAEs, and how to optimize their evidence lower bound (ELBO). Finally, we present a new result that explains the objective functions used in state-of-the-art (SOTA) diffusion models as the ELBO with simple data augmentation. This opens up new avenues for optimizing other model families with the same objective as successful diffusion models. We will list some interesting open research questions in the diffusion model space."
+      bio: "Diederik P. (Durk) Kingma is a machine learning researcher at Google, with a focus on generative models. His contributions include the Variational Autoencoder (VAE), the Adam optimizer, Glow, and Variational Diffusion Models. He obtained a PhD (cum laude) from University of Amsterdam in 2017, and was part of the founding team of OpenAI in 2015."
     - speaker: Yang Song, OpenAI / Caltech (*)
       date: 04/10/2023
       title: "Breaking the Curse of Dimensionality in Generative Modeling: A Homotopic Approach"
