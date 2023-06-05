@@ -1,17 +1,13 @@
-# - type: Happening Today
-#   members:
-#     - speaker: Diederik P. (Durk) Kingma, Google Research
-#       date: 04/17/2023
-#       title: "Infinitely Deep Learning"
-#       abstract: "Diffusion models have demonstrated amazing abilities for image and video generation. In this talk we explain some recent breakthroughs in understanding state-of-the-art diffusion models as infinitely deep variational autoencoders (VAEs). We start by introducing VAEs. Twe then introduce continuous-time diffusion models as infinitely deep VAEs, and how to optimize their evidence lower bound (ELBO). Finally, we present a new result that explains the objective functions used in state-of-the-art (SOTA) diffusion models as the ELBO with simple data augmentation. This opens up new avenues for optimizing other model families with the same objective as successful diffusion models. We will list some interesting open research questions in the diffusion model space."
-#       bio: "Diederik P. (Durk) Kingma is a machine learning researcher at Google, with a focus on generative models. His contributions include the Variational Autoencoder (VAE), the Adam optimizer, Glow, and Variational Diffusion Models. He obtained a PhD (cum laude) from University of Amsterdam in 2017, and was part of the founding team of OpenAI in 2015."
-
-- type: Upcoming Talks
-  members: 
+- type: Happening Today
+  members:
     - speaker: Jason Wei, OpenAI
       date: 06/05/2023
       title: "Scaling Unlocks Emergent Abilities In Language Models"
       abstract: "Scaling up language models has been shown to predictably improve performance on a wide range of downstream tasks. In this talk, we will instead discuss an unpredictable phenomenon that we refer to as emergent abilities of large language models. An ability is considered emergent if it is not present in smaller models but is present in larger models, which means that the ability cannot be predicted simply by extrapolating the performance of smaller models. With the popularization of large language models such as GPT-3, Chinchilla, and PaLM, dozens of emergent abilities have been discovered, including chain-of-thought prompting, which enables state-of-the-art mathematical reasoning, and instruction finetuning, which enables large language models to be usable by the broader population. The existence of such emergent phenomena raises the question of whether additional scaling could potentially further expand the range of capabilities of language models."
+      bio: "Jason Wei is an AI researcher working on ChatGPT at OpenAI in San Francisco. He was previously a senior research scientist at Google Brain, where he popularized chain-of-thought prompting, co-led the first efforts on instruction tuning, and wrote about emergence in large language models. Chain-of-thought prompting was presented by Sundar Pichai at the Google I/O press event in 2022."
+      
+- type: Upcoming Talks
+  members: 
     - speaker: Johannes Brandstetter, Microsoft Research
       date: TBD
       abstract: TBD
