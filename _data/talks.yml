@@ -9,8 +9,10 @@
 - type: Upcoming Talks
   members: 
     - speaker: Johannes Brandstetter, Microsoft Research
-      date: TBD
-      abstract: TBD
+      date: 07/10/2023
+      title: "Is it the network, or is it the data? Towards large-scale PDE surrogates"
+      abstract: "Partial differential equations (PDEs) see widespread use in sciences and engineering to describe simulation of physical processes interacting and coevolving over time. Due to the computationally expensive nature of their standard solution methods, neural PDE surrogates have become an active research topic to accelerate these simulations. In this talk, we approach such surrogates from two different angles. First, we have a closer look into possible ideas to best integrate physics into neural PDE surrogates. Second, we let known tricks from computer vision and the pure power of the data speak and assume that all the physics is in the data. Especially for the second, the model needs to be designed in a way to leverage it all. Finally, we compare these paradigms against each other and give an outlook."
+      bio: "Johannes Brandstetter did his PhD studying Higgs boson decays at the CMS experiment at the Large Hadron Collider at CERN. In 2018, he joined Sepp Hochreiter’s group in Linz, Austria. In 2021, he become ELLIS PostDoc at Max Welling’s lab at the University of Amsterdam. Since 2022, he is a Senior Researcher at the newly founded Microsoft Lab in Amsterdam. His current research interests comprise Geometric Deep Learning, neural PDE solving, and large-scale scientific simulations. "
     - speaker: Taco Cohen, Qualcomm AI Research
       date: TBD
       abstract: TBD
