@@ -8,7 +8,7 @@ permalink: /about/
 
 **Seminar Hosts:** [Soheil Kolouri](https://skolouri.github.io/), [Tyler Derr](https://tylersnetwork.github.io/)
 
-**Student Directors:** Huy Tran, [Yuying Zhao](https://yuyingzhao.github.io/)
+**Student Directors:** [Huy Tran](#), [Yuying Zhao](https://yuyingzhao.github.io/)
 
 
 
