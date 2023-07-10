@@ -1,18 +1,18 @@
-# - type: Happening Today
-#   members:
-#     - speaker: Jason Wei, OpenAI
-#       date: 06/05/2023
-#       title: "Scaling Unlocks Emergent Abilities In Language Models"
-#       abstract: "Scaling up language models has been shown to predictably improve performance on a wide range of downstream tasks. In this talk, we will instead discuss an unpredictable phenomenon that we refer to as emergent abilities of large language models. An ability is considered emergent if it is not present in smaller models but is present in larger models, which means that the ability cannot be predicted simply by extrapolating the performance of smaller models. With the popularization of large language models such as GPT-3, Chinchilla, and PaLM, dozens of emergent abilities have been discovered, including chain-of-thought prompting, which enables state-of-the-art mathematical reasoning, and instruction finetuning, which enables large language models to be usable by the broader population. The existence of such emergent phenomena raises the question of whether additional scaling could potentially further expand the range of capabilities of language models."
-#       bio: "Jason Wei is an AI researcher working on ChatGPT at OpenAI in San Francisco. He was previously a senior research scientist at Google Brain, where he popularized chain-of-thought prompting, co-led the first efforts on instruction tuning, and wrote about emergence in large language models. Chain-of-thought prompting was presented by Sundar Pichai at the Google I/O press event in 2022."
-      
-- type: Upcoming Talks
-  members: 
+- type: Happening Today
+  members:
     - speaker: Johannes Brandstetter, Microsoft Research
       date: 07/10/2023
       title: "Is it the network, or is it the data? Towards large-scale PDE surrogates"
       abstract: "Partial differential equations (PDEs) see widespread use in sciences and engineering to describe simulation of physical processes interacting and coevolving over time. Due to the computationally expensive nature of their standard solution methods, neural PDE surrogates have become an active research topic to accelerate these simulations. In this talk, we approach such surrogates from two different angles. First, we have a closer look into possible ideas to best integrate physics into neural PDE surrogates. Second, we let known tricks from computer vision and the pure power of the data speak and assume that all the physics is in the data. Especially for the second, the model needs to be designed in a way to leverage it all. Finally, we compare these paradigms against each other and give an outlook."
       bio: "Johannes Brandstetter did his PhD studying Higgs boson decays at the CMS experiment at the Large Hadron Collider at CERN. In 2018, he joined Sepp Hochreiter’s group in Linz, Austria. In 2021, he become ELLIS PostDoc at Max Welling’s lab at the University of Amsterdam. Since 2022, he is a Senior Researcher at the newly founded Microsoft Lab in Amsterdam. His current research interests comprise Geometric Deep Learning, neural PDE solving, and large-scale scientific simulations. "
+      
+- type: Upcoming Talks
+  members: 
+    # - speaker: Johannes Brandstetter, Microsoft Research
+    #   date: 07/10/2023
+    #   title: "Is it the network, or is it the data? Towards large-scale PDE surrogates"
+    #   abstract: "Partial differential equations (PDEs) see widespread use in sciences and engineering to describe simulation of physical processes interacting and coevolving over time. Due to the computationally expensive nature of their standard solution methods, neural PDE surrogates have become an active research topic to accelerate these simulations. In this talk, we approach such surrogates from two different angles. First, we have a closer look into possible ideas to best integrate physics into neural PDE surrogates. Second, we let known tricks from computer vision and the pure power of the data speak and assume that all the physics is in the data. Especially for the second, the model needs to be designed in a way to leverage it all. Finally, we compare these paradigms against each other and give an outlook."
+    #   bio: "Johannes Brandstetter did his PhD studying Higgs boson decays at the CMS experiment at the Large Hadron Collider at CERN. In 2018, he joined Sepp Hochreiter’s group in Linz, Austria. In 2021, he become ELLIS PostDoc at Max Welling’s lab at the University of Amsterdam. Since 2022, he is a Senior Researcher at the newly founded Microsoft Lab in Amsterdam. His current research interests comprise Geometric Deep Learning, neural PDE solving, and large-scale scientific simulations. "
     - speaker: Taco Cohen, Qualcomm AI Research
       date: TBD
       abstract: TBD
