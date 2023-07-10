@@ -1,5 +1,5 @@
-- type: Happening Today
-  members:
+# - type: Happening Today
+#   members:
     # - speaker: Johannes Brandstetter, Microsoft Research
     #   date: 07/10/2023
     #   title: "Is it the network, or is it the data? Towards large-scale PDE surrogates"
