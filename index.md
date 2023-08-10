@@ -4,8 +4,8 @@ layout: default
 meta-description: "Seminar series on the frontier of machine learning. Open to all Vanderbilt CS students Mondays 12:10-1:30 pm. Recordings are available to the public. "
 ---
 
-<!-- <img src="/images/s23/s23.png" width="100%" style="border-radius:10px">
- -->
+<img src="/images/f2023i.png" width="100%" style="border-radius:10px">
+
 ## Announcements
 
 <div class="announcement-group" markdown="1">
