@@ -1,10 +1,10 @@
-# - type: Happening Today
-#   members:
-    # - speaker: Johannes Brandstetter, Microsoft Research
-    #   date: 07/10/2023
-    #   title: "Is it the network, or is it the data? Towards large-scale PDE surrogates"
-    #   abstract: "Partial differential equations (PDEs) see widespread use in sciences and engineering to describe simulation of physical processes interacting and coevolving over time. Due to the computationally expensive nature of their standard solution methods, neural PDE surrogates have become an active research topic to accelerate these simulations. In this talk, we approach such surrogates from two different angles. First, we have a closer look into possible ideas to best integrate physics into neural PDE surrogates. Second, we let known tricks from computer vision and the pure power of the data speak and assume that all the physics is in the data. Especially for the second, the model needs to be designed in a way to leverage it all. Finally, we compare these paradigms against each other and give an outlook."
-    #   bio: "Johannes Brandstetter did his PhD studying Higgs boson decays at the CMS experiment at the Large Hadron Collider at CERN. In 2018, he joined Sepp Hochreiter’s group in Linz, Austria. In 2021, he become ELLIS PostDoc at Max Welling’s lab at the University of Amsterdam. Since 2022, he is a Senior Researcher at the newly founded Microsoft Lab in Amsterdam. His current research interests comprise Geometric Deep Learning, neural PDE solving, and large-scale scientific simulations. "
+- type: Happening Today
+  members:
+    - speaker: Taco Cohen, Qualcomm AI Research
+      date: 08/14/2023
+      title: "Geometric Algebra Transformers: A Universal Architecture for Geometric Data"
+      abstract: "Problems involving geometric data arise in a variety of fields, including computer vision, robotics, chemistry, and physics. Such data can take numerous forms, such as points, direction vectors, planes, or transformations, but to date there is no single architecture that can be applied to such a wide variety of geometric types while respecting their symmetries. In this paper we introduce the Geometric Algebra Transformer (GATr), a general-purpose architecture for geometric data. GATr represents inputs, outputs, and hidden states in the projective geometric algebra, which offers an efficient 16-dimensional vector space representation of common geometric objects as well as operators acting on them. GATr is equivariant with respect to Pin(3,0,1), the double cover of E(3): the symmetry group of 3D Euclidean space. As a transformer, GATr is scalable, expressive, and versatile. In various geometric problems, GATr shows strong improvements over non-geometric baselines."
+      bio: "Taco Cohen is a machine learning researcher (Principal Engineer) at Qualcomm AI Research in Amsterdam. He received a BSc in theoretical computer science from Utrecht University, and a MSc in artificial intelligence and PhD in machine learning (with prof. Max Welling) from the University of Amsterdam (all three cum laude). He was a co-founder of Scyfer, a company focussed on deep active learning, acquired by Qualcomm in 2017. His research is focused on geometric deep learning and reinforcement learning. During his studies he has interned at Google Deepmind (working with Geoff Hinton) and OpenAI. He received the 2014 University of Amsterdam MSc thesis prize, a Google PhD Fellowship, ICLR 2018 best paper award for “Spherical CNNs”, was named one of 35 innovators under 35 by MIT Tech Review, and won the 2022 ELLIS PhD Award and 2022 Kees Schouhamer Immink prize for his PhD research."
       
 - type: Upcoming Talks
   members: 
@@ -13,9 +13,6 @@
     #   title: "Is it the network, or is it the data? Towards large-scale PDE surrogates"
     #   abstract: "Partial differential equations (PDEs) see widespread use in sciences and engineering to describe simulation of physical processes interacting and coevolving over time. Due to the computationally expensive nature of their standard solution methods, neural PDE surrogates have become an active research topic to accelerate these simulations. In this talk, we approach such surrogates from two different angles. First, we have a closer look into possible ideas to best integrate physics into neural PDE surrogates. Second, we let known tricks from computer vision and the pure power of the data speak and assume that all the physics is in the data. Especially for the second, the model needs to be designed in a way to leverage it all. Finally, we compare these paradigms against each other and give an outlook."
     #   bio: "Johannes Brandstetter did his PhD studying Higgs boson decays at the CMS experiment at the Large Hadron Collider at CERN. In 2018, he joined Sepp Hochreiter’s group in Linz, Austria. In 2021, he become ELLIS PostDoc at Max Welling’s lab at the University of Amsterdam. Since 2022, he is a Senior Researcher at the newly founded Microsoft Lab in Amsterdam. His current research interests comprise Geometric Deep Learning, neural PDE solving, and large-scale scientific simulations. "
-    - speaker: Taco Cohen, Qualcomm AI Research
-      date: TBD
-      abstract: TBD
     - speaker: Nicholas Carlini, Google DeepMind
       date: TBD
       abstract: TBD
