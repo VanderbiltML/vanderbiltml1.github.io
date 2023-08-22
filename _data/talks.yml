@@ -1,22 +1,13 @@
-- type: Happening Today
-  members:
-    - speaker: Nicholas Carlini, Google DeepMind
-      date: 08/21
-      title: "Are aligned language models 'adversarially aligned'?"
-      abstract: "An 'aligned' model is 'helpful and harmless'. In this talk I will show that while language models may be aligned under typical situations, they are not 'adversarially aligned'. Using standard techniques from adversarial examples, we can construct inputs to otherwise-aligned language models to coerce them into emitting harmful text and performing harmful behavior."
-      bio: "Nicholas Carlini is a research scientist at Google DeepMind working at the intersection of machine learning and computer security. His most recent line of work studies properties of neural networks from an adversarial perspective, for which he received best paper awards at ICML, USENIX, and IEEE S&P."
+# - type: Happening Today
+#   members:
+#     - speaker: Nicholas Carlini, Google DeepMind
+#       date: 08/21
+#       title: "Are aligned language models 'adversarially aligned'?"
+#       abstract: "An 'aligned' model is 'helpful and harmless'. In this talk I will show that while language models may be aligned under typical situations, they are not 'adversarially aligned'. Using standard techniques from adversarial examples, we can construct inputs to otherwise-aligned language models to coerce them into emitting harmful text and performing harmful behavior."
+#       bio: "Nicholas Carlini is a research scientist at Google DeepMind working at the intersection of machine learning and computer security. His most recent line of work studies properties of neural networks from an adversarial perspective, for which he received best paper awards at ICML, USENIX, and IEEE S&P."
+
 - type: Upcoming Talks
   members: 
-    # - speaker: Johannes Brandstetter, Microsoft Research
-    #   date: 07/10/2023
-    #   title: "Is it the network, or is it the data? Towards large-scale PDE surrogates"
-    #   abstract: "Partial differential equations (PDEs) see widespread use in sciences and engineering to describe simulation of physical processes interacting and coevolving over time. Due to the computationally expensive nature of their standard solution methods, neural PDE surrogates have become an active research topic to accelerate these simulations. In this talk, we approach such surrogates from two different angles. First, we have a closer look into possible ideas to best integrate physics into neural PDE surrogates. Second, we let known tricks from computer vision and the pure power of the data speak and assume that all the physics is in the data. Especially for the second, the model needs to be designed in a way to leverage it all. Finally, we compare these paradigms against each other and give an outlook."
-    #   bio: "Johannes Brandstetter did his PhD studying Higgs boson decays at the CMS experiment at the Large Hadron Collider at CERN. In 2018, he joined Sepp Hochreiter’s group in Linz, Austria. In 2021, he become ELLIS PostDoc at Max Welling’s lab at the University of Amsterdam. Since 2022, he is a Senior Researcher at the newly founded Microsoft Lab in Amsterdam. His current research interests comprise Geometric Deep Learning, neural PDE solving, and large-scale scientific simulations. "
-    - speaker: Nicholas Carlini, Google DeepMind
-      date: 08/21
-      title: "Are aligned language models 'adversarially aligned'?"
-      abstract: "An 'aligned' model is 'helpful and harmless'. In this talk I will show that while language models may be aligned under typical situations, they are not 'adversarially aligned'. Using standard techniques from adversarial examples, we can construct inputs to otherwise-aligned language models to coerce them into emitting harmful text and performing harmful behavior."
-      bio: "Nicholas Carlini is a research scientist at Google DeepMind working at the intersection of machine learning and computer security. His most recent line of work studies properties of neural networks from an adversarial perspective, for which he received best paper awards at ICML, USENIX, and IEEE S&P."
     - speaker: Hyung Won Chung, OpenAI
       date: TBD
       abstract: TBD
@@ -46,6 +37,11 @@
       abstract: TBD
 - type: Previous Talks
   members:
+   - speaker: Nicholas Carlini, Google DeepMind
+      date: 08/21
+      title: "Are aligned language models 'adversarially aligned'?"
+      abstract: "An 'aligned' model is 'helpful and harmless'. In this talk I will show that while language models may be aligned under typical situations, they are not 'adversarially aligned'. Using standard techniques from adversarial examples, we can construct inputs to otherwise-aligned language models to coerce them into emitting harmful text and performing harmful behavior."
+      bio: "Nicholas Carlini is a research scientist at Google DeepMind working at the intersection of machine learning and computer security. His most recent line of work studies properties of neural networks from an adversarial perspective, for which he received best paper awards at ICML, USENIX, and IEEE S&P."
     - speaker: Taco Cohen, Qualcomm AI Research
       date: 08/14/2023
       title: "Geometric Algebra Transformers: A Universal Architecture for Geometric Data"
