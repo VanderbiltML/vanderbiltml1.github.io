@@ -40,7 +40,7 @@
   members:
    - speaker: Nicholas Carlini, Google DeepMind
       date: 08/21/2023
-      title: "Are aligned language models 'adversarially aligned'?"
+      title: "Are aligned language models adversarially aligned?"
       abstract: "An aligned model is helpful and harmless. In this talk I will show that while language models may be aligned under typical situations, they are not adversarially aligned. Using standard techniques from adversarial examples, we can construct inputs to otherwise-aligned language models to coerce them into emitting harmful text and performing harmful behavior."
       bio: "Nicholas Carlini is a research scientist at Google DeepMind working at the intersection of machine learning and computer security. His most recent line of work studies properties of neural networks from an adversarial perspective, for which he received best paper awards at ICML, USENIX, and IEEE S&P."
     - speaker: Taco Cohen, Qualcomm AI Research
