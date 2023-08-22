@@ -8,6 +8,10 @@
 
 - type: Upcoming Talks
   members: 
+    - speaker: Guido Montúfar, UCLA
+      date: 08/28/2023
+      title: "FoSR: First-order spectral rewiring for addressing oversquashing in GNNs"
+      abstract: "Graph neural networks (GNNs) are able to leverage the structure of graph data by passing messages along the edges of the graph. While this allows GNNs to learn features depending on the graph structure, for certain graph topologies it leads to inefficient information propagation and a problem known as oversquashing. This has recently been linked with the curvature and spectral gap of the graph. On the other hand, adding edges to the message-passing graph can lead to increasingly similar node representations and a problem known as oversmoothing. We propose a computationally efficient algorithm that prevents oversquashing by systematically adding edges to the graph based on spectral expansion. We combine this with a relational architecture, which lets the GNN preserve the original graph structure and provably prevents oversmoothing. We find experimentally that our algorithm outperforms existing graph rewiring methods in several graph classification tasks. This is work with Kedar Karhadkar and Pradeep Kr. Banerjee."
     - speaker: Hyung Won Chung, OpenAI
       date: TBD
       abstract: TBD
@@ -15,9 +19,6 @@
       date: TBD
       abstract: TBD
     - speaker: Dongwon Lee, PSU
-      date: TBD
-      abstract: TBD
-    - speaker: Guido Montúfar, UCLA
       date: TBD
       abstract: TBD
     - speaker: David Stutz, Google DeepMind
@@ -38,9 +39,9 @@
 - type: Previous Talks
   members:
    - speaker: Nicholas Carlini, Google DeepMind
-      date: 08/21
+      date: 08/21/2023
       title: "Are aligned language models 'adversarially aligned'?"
-      abstract: "An 'aligned' model is 'helpful and harmless'. In this talk I will show that while language models may be aligned under typical situations, they are not 'adversarially aligned'. Using standard techniques from adversarial examples, we can construct inputs to otherwise-aligned language models to coerce them into emitting harmful text and performing harmful behavior."
+      abstract: "An aligned model is helpful and harmless. In this talk I will show that while language models may be aligned under typical situations, they are not adversarially aligned. Using standard techniques from adversarial examples, we can construct inputs to otherwise-aligned language models to coerce them into emitting harmful text and performing harmful behavior."
       bio: "Nicholas Carlini is a research scientist at Google DeepMind working at the intersection of machine learning and computer security. His most recent line of work studies properties of neural networks from an adversarial perspective, for which he received best paper awards at ICML, USENIX, and IEEE S&P."
     - speaker: Taco Cohen, Qualcomm AI Research
       date: 08/14/2023
