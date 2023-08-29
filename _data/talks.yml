@@ -34,12 +34,12 @@
       abstract: TBD
 - type: Previous Talks
   members:
-   -  speaker: Guido Montúfar, UCLA
+    - speaker: Guido Montúfar, UCLA
       date: 08/28/2023
       title: "FoSR: First-order spectral rewiring for addressing oversquashing in GNNs"
       bio: "Dr. Guido Montúfar is an Associate Professor at UCLA in Mathematics and Statistics & Data Science, and Research Group Leader at the Max Planck Institute for Mathematics in the Sciences. His research interests include Deep Learning Theory, Graphical Models, and Mathematical Machine Learning. He is a recipient of many prestigious awards including the ERC Starting Grant for Deep Learning Theory, the NSF CAREER award, and the 2022 Sloan Research Fellowship. Dr. Montúfar's work bridges the theoretical foundations of mathematics and machine learning, making significant contributions to both fields."
       abstract: "Graph neural networks (GNNs) are able to leverage the structure of graph data by passing messages along the edges of the graph. While this allows GNNs to learn features depending on the graph structure, for certain graph topologies it leads to inefficient information propagation and a problem known as oversquashing. This has recently been linked with the curvature and spectral gap of the graph. On the other hand, adding edges to the message-passing graph can lead to increasingly similar node representations and a problem known as oversmoothing. We propose a computationally efficient algorithm that prevents oversquashing by systematically adding edges to the graph based on spectral expansion. We combine this with a relational architecture, which lets the GNN preserve the original graph structure and provably prevents oversmoothing. We find experimentally that our algorithm outperforms existing graph rewiring methods in several graph classification tasks. This is work with Kedar Karhadkar and Pradeep Kr. Banerjee."
-   -  speaker: Nicholas Carlini, Google DeepMind
+    - speaker: Nicholas Carlini, Google DeepMind
       date: 08/21/2023
       title: "Are aligned language models adversarially aligned?"
       abstract: "An aligned model is helpful and harmless. In this talk I will show that while language models may be aligned under typical situations, they are not adversarially aligned. Using standard techniques from adversarial examples, we can construct inputs to otherwise-aligned language models to coerce them into emitting harmful text and performing harmful behavior."
