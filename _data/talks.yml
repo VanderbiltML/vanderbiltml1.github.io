@@ -1,10 +1,10 @@
-- type: Happening Today
-  members:
-    - speaker: Hyung Won Chung, OpenAI
-      date: 09/25/2023
-      title: "Large Language Models (in 2023)"
-      abstract: "There is one unique aspect of large language models (LLMs): larger models exhibit abilities that were not present in the smaller models. These emergent abilities have far-reaching consequences in how we should work in the field of AI. I will share some of my observations on the implications of scaling and emergent abilities. After that, I will introduce multiple stages involved in the current generations of LLM training:: pre-training and post-training (including instruction fine-tuning and RLHF). While a huge volume of research exists for each stage, the core aspects can be expressed relatively simply. I will introduce the fundamental aspects of each stage and discuss the unique challenges they pose."
-      bio : "Hyung Won is a research scientist at OpenAI ChatGPT team. He has worked on various aspects of Large Language Models: pre-training, instruction fine-tuning, reinforcement learning with human feedback, reasoning, multilinguality, parallelism strategies, etc. Some of the notable work includes scaling Flan paper (Flan-T5, Flan-PaLM) and T5X, the training framework used to train the PaLM language model. Before OpenAI, he was at Google Brain and before that he received a PhD from MIT."
+# - type: Happening Today
+#   members:
+#     - speaker: Hyung Won Chung, OpenAI
+#       date: 09/25/2023
+#       title: "Large Language Models (in 2023)"
+#       abstract: "There is one unique aspect of large language models (LLMs): larger models exhibit abilities that were not present in the smaller models. These emergent abilities have far-reaching consequences in how we should work in the field of AI. I will share some of my observations on the implications of scaling and emergent abilities. After that, I will introduce multiple stages involved in the current generations of LLM training:: pre-training and post-training (including instruction fine-tuning and RLHF). While a huge volume of research exists for each stage, the core aspects can be expressed relatively simply. I will introduce the fundamental aspects of each stage and discuss the unique challenges they pose."
+#       bio : "Hyung Won is a research scientist at OpenAI ChatGPT team. He has worked on various aspects of Large Language Models: pre-training, instruction fine-tuning, reinforcement learning with human feedback, reasoning, multilinguality, parallelism strategies, etc. Some of the notable work includes scaling Flan paper (Flan-T5, Flan-PaLM) and T5X, the training framework used to train the PaLM language model. Before OpenAI, he was at Google Brain and before that he received a PhD from MIT."
 - type: Upcoming Talks
   members: 
     - speaker: Stella Yu, University of Michigan
@@ -27,6 +27,11 @@
       abstract: TBD
 - type: Previous Talks
   members:
+    - speaker: Hyung Won Chung, OpenAI
+      date: 09/25/2023
+      title: "Large Language Models (in 2023)"
+      abstract: "There is one unique aspect of large language models (LLMs): larger models exhibit abilities that were not present in the smaller models. These emergent abilities have far-reaching consequences in how we should work in the field of AI. I will share some of my observations on the implications of scaling and emergent abilities. After that, I will introduce multiple stages involved in the current generations of LLM training:: pre-training and post-training (including instruction fine-tuning and RLHF). While a huge volume of research exists for each stage, the core aspects can be expressed relatively simply. I will introduce the fundamental aspects of each stage and discuss the unique challenges they pose."
+      bio : "Hyung Won is a research scientist at OpenAI ChatGPT team. He has worked on various aspects of Large Language Models: pre-training, instruction fine-tuning, reinforcement learning with human feedback, reasoning, multilinguality, parallelism strategies, etc. Some of the notable work includes scaling Flan paper (Flan-T5, Flan-PaLM) and T5X, the training framework used to train the PaLM language model. Before OpenAI, he was at Google Brain and before that he received a PhD from MIT."
     - speaker: Micah Goldblum, NYU
       date: 09/11/2023
       title: "Bridging the gap between deep learning theory and practice"
