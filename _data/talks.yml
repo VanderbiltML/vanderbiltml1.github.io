@@ -1,15 +1,12 @@
-# - type: Happening Today
-#   members:
-    # - speaker: Micah Goldblum, NYU
-    #   date: 09/11/2023
-    #   title: "Bridging the gap between deep learning theory and practice"
-    #   abstract: "Despite the widespread proliferation of neural networks, the mechanisms through which they operate so successfully are not well understood.  In this talk, we will first explore empirical and theoretical investigations into neural network training and generalization and what they can tell us about why deep learning works.  Then, we will examine a recent line of work on algorithm learning.  While typical neural networks are designed for pattern matching tasks, we consider whether neural networks can learn algorithms that scale to problem instances orders of magnitude larger than those seen during training."
-    #   bio : "Micah is a postdoctoral researcher at New York University working with Yann LeCun and Andrew Gordon Wilson. His research portfolio includes award winning work in Bayesian inference, generalization theory, and AI security. Before his current position, Micah received a Ph.D. in mathematics at the University of Maryland."
-- type: Upcoming Talks
-  members: 
+- type: Happening Today
+  members:
     - speaker: Hyung Won Chung, OpenAI
       date: 09/25/2023
-      abstract: TBD
+      title: "Large Language Models (in 2023)"
+      abstract: "There is one unique aspect of large language models (LLMs): larger models exhibit abilities that were not present in the smaller models. These emergent abilities have far-reaching consequences in how we should work in the field of AI. I will share some of my observations on the implications of scaling and emergent abilities. After that, I will introduce multiple stages involved in the current generations of LLM training:: pre-training and post-training (including instruction fine-tuning and RLHF). While a huge volume of research exists for each stage, the core aspects can be expressed relatively simply. I will introduce the fundamental aspects of each stage and discuss the unique challenges they pose."
+      bio : "Hyung Won is a research scientist at OpenAI ChatGPT team. He has worked on various aspects of Large Language Models: pre-training, instruction fine-tuning, reinforcement learning with human feedback, reasoning, multilinguality, parallelism strategies, etc. Some of the notable work includes scaling Flan paper (Flan-T5, Flan-PaLM) and T5X, the training framework used to train the PaLM language model. Before OpenAI, he was at Google Brain and before that he received a PhD from MIT."
+- type: Upcoming Talks
+  members: 
     - speaker: Stella Yu, University of Michigan
       date: TBD
       abstract: TBD
