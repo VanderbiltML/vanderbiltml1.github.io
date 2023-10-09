@@ -1,16 +1,13 @@
-# - type: Happening Today
-#   members:
-#     - speaker: Hyung Won Chung, OpenAI
-#       date: 09/25/2023
-#       title: "Large Language Models (in 2023)"
-#       abstract: "There is one unique aspect of large language models (LLMs): larger models exhibit abilities that were not present in the smaller models. These emergent abilities have far-reaching consequences in how we should work in the field of AI. I will share some of my observations on the implications of scaling and emergent abilities. After that, I will introduce multiple stages involved in the current generations of LLM training:: pre-training and post-training (including instruction fine-tuning and RLHF). While a huge volume of research exists for each stage, the core aspects can be expressed relatively simply. I will introduce the fundamental aspects of each stage and discuss the unique challenges they pose."
-#       bio : "Hyung Won is a research scientist at OpenAI ChatGPT team. He has worked on various aspects of Large Language Models: pre-training, instruction fine-tuning, reinforcement learning with human feedback, reasoning, multilinguality, parallelism strategies, etc. Some of the notable work includes scaling Flan paper (Flan-T5, Flan-PaLM) and T5X, the training framework used to train the PaLM language model. Before OpenAI, he was at Google Brain and before that he received a PhD from MIT."
-- type: Upcoming Talks
-  members: 
+- type: Happening Today
+  members:
     - speaker: Sharon Yixuan Li, UW Madison
       date: 10/09/2023
+      title: " How to Detect Out-of-Distribution Data in the Wild? Challenges, Research Progress, and Path Forward"
       abstract: "When deploying machine learning models in the open and non-stationary world, their reliability is often challenged by the presence of out-of-distribution (OOD) samples. Since data shifts happen prevalently in the real world, identifying OOD inputs has become an important problem in machine learning. In this talk, I will discuss challenges, research progress, and opportunities in OOD detection. Our work is motivated by the insufficiency of existing learning objective such as ERM --- which focuses on minimizing error only on the in-distribution (ID) data, but do not explicitly account for the uncertainty that arises outside ID data. To mitigate the fundamental limitation, I will introduce a new algorithmic framework, which jointly optimizes for both accurate classification of ID samples, and reliable detection of OOD data. The learning framework integrates distributional uncertainty as a first-class construct in the learning process, thus enabling both accuracy and safety guarantees."
       bio: "Sharon Yixuan Li is an Assistant Professor in the Department of Computer Sciences at the University of Wisconsin-Madison. She received a Ph.D. from Cornell University in 2017, advised by John E. Hopcroft. Subsequently, she was a postdoctoral scholar in the Computer Science department at Stanford University. Her research focuses on the algorithmic and theoretical foundations of learning in the open world environments. She has served as Area Chair for ICLR, NeurIPS, ICML, and Program Chair for Workshop on Uncertainty and Robustness in Deep Learning. Her work is recognized by the AFOSR Young Investigator Program (YIP) award, NSF CAREER award, MIT Technology Review TR-35 Award, Forbes 30Under30 in Science, and multiple faculty research awards from Google, Meta, and Amazon. Her works also received a NeurIPS Outstanding Paper Award, and an ICLR Outstanding Paper Award Honorable Mention in 2022."
+
+- type: Upcoming Talks
+  members: 
     - speaker: Tri Dao, Together.AI / Princeton University
       date: 10/16/2023
       abstract: TBD
