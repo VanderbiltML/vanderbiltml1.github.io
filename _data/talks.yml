@@ -1,10 +1,10 @@
-- type: Happening Today
-  members:
-    - speaker: Tri Dao, Together.AI / Princeton University
-      date: 10/16/2023
-      title: "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness"
-      abstract: "Transformers are slow and memory-hungry on long sequences, since the time and memory complexity of self-attention are quadratic in sequence length. Approximate attention methods have attempted to address this problem by trading off model quality to reduce the compute complexity, but often do not achieve wall-clock speedup. We argue that a missing principle is making attention algorithms IO-aware -- accounting for reads and writes between levels of GPU memory. We propose FlashAttention, an IO-aware exact attention algorithm that uses tiling to reduce the number of memory reads/writes between GPU high bandwidth memory (HBM) and GPU on-chip SRAM. FlashAttention trains Transformers faster than existing baselines, with 2-4x speedup on the attention kernel. FlashAttention enables longer context in Transformers (4-16x longer than previous), yielding higher quality models. We will also describe recent improvements of FlashAttention: making use of new hardware features on A100 and H100 GPUs (another 2x speedup), optimizations for long-context LLM inference (2-4x faster end-to-end inference time), as well as how these ideas transfer to other model architectures."
-      bio: "Tri Dao is currently chief scientist of Together.AI and is an incoming Assistant Professor at Princeton University. He completed his PhD in Computer Science at Stanford, co-advised by Christopher Ré and Stefano Ermon. He works at the interface of machine learning and systems, and his research interests include sequence models with long-range memory and structured matrices for compact deep learning models. His work has received the ICML 2022 Outstanding paper runner-up award."
+# - type: Happening Today
+#   members:
+#     - speaker: Tri Dao, Together.AI / Princeton University
+#       date: 10/16/2023
+#       title: "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness"
+#       abstract: "Transformers are slow and memory-hungry on long sequences, since the time and memory complexity of self-attention are quadratic in sequence length. Approximate attention methods have attempted to address this problem by trading off model quality to reduce the compute complexity, but often do not achieve wall-clock speedup. We argue that a missing principle is making attention algorithms IO-aware -- accounting for reads and writes between levels of GPU memory. We propose FlashAttention, an IO-aware exact attention algorithm that uses tiling to reduce the number of memory reads/writes between GPU high bandwidth memory (HBM) and GPU on-chip SRAM. FlashAttention trains Transformers faster than existing baselines, with 2-4x speedup on the attention kernel. FlashAttention enables longer context in Transformers (4-16x longer than previous), yielding higher quality models. We will also describe recent improvements of FlashAttention: making use of new hardware features on A100 and H100 GPUs (another 2x speedup), optimizations for long-context LLM inference (2-4x faster end-to-end inference time), as well as how these ideas transfer to other model architectures."
+#       bio: "Tri Dao is currently chief scientist of Together.AI and is an incoming Assistant Professor at Princeton University. He completed his PhD in Computer Science at Stanford, co-advised by Christopher Ré and Stefano Ermon. He works at the interface of machine learning and systems, and his research interests include sequence models with long-range memory and structured matrices for compact deep learning models. His work has received the ICML 2022 Outstanding paper runner-up award."
 
 - type: Upcoming Talks
   members: 
@@ -26,6 +26,11 @@
 
 - type: Previous Talks
   members:
+    - speaker: Tri Dao, Together.AI / Princeton University
+      date: 10/16/2023
+      title: "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness"
+      abstract: "Transformers are slow and memory-hungry on long sequences, since the time and memory complexity of self-attention are quadratic in sequence length. Approximate attention methods have attempted to address this problem by trading off model quality to reduce the compute complexity, but often do not achieve wall-clock speedup. We argue that a missing principle is making attention algorithms IO-aware -- accounting for reads and writes between levels of GPU memory. We propose FlashAttention, an IO-aware exact attention algorithm that uses tiling to reduce the number of memory reads/writes between GPU high bandwidth memory (HBM) and GPU on-chip SRAM. FlashAttention trains Transformers faster than existing baselines, with 2-4x speedup on the attention kernel. FlashAttention enables longer context in Transformers (4-16x longer than previous), yielding higher quality models. We will also describe recent improvements of FlashAttention: making use of new hardware features on A100 and H100 GPUs (another 2x speedup), optimizations for long-context LLM inference (2-4x faster end-to-end inference time), as well as how these ideas transfer to other model architectures."
+      bio: "Tri Dao is currently chief scientist of Together.AI and is an incoming Assistant Professor at Princeton University. He completed his PhD in Computer Science at Stanford, co-advised by Christopher Ré and Stefano Ermon. He works at the interface of machine learning and systems, and his research interests include sequence models with long-range memory and structured matrices for compact deep learning models. His work has received the ICML 2022 Outstanding paper runner-up award."
     - speaker: Sharon Yixuan Li, UW Madison
       date: 10/09/2023
       title: " How to Detect Out-of-Distribution Data in the Wild? Challenges, Research Progress, and Path Forward"
