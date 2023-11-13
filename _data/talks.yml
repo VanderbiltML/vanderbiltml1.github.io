@@ -1,16 +1,13 @@
-# - type: Happening Today
-#   members:
-#     - speaker: David Stutz, Google DeepMind
-#       date: 11/06/2023
-#       title: "Conformal prediction under ambiguous ground truth"
-#       abstract: "In safety-critical classification tasks, conformal prediction allows to perform rigorous uncertainty quantification by providing confidence sets including the true class with a user-specified probability. This generally assumes the availability of a held-out calibration set with access to ground truth labels. Unfortunately, in many domains, such labels are difficult to obtain and usually approximated by aggregating expert opinions. In fact, this holds true for almost all datasets, including well-known ones such as CIFAR and ImageNet. Applying conformal prediction using such labels underestimates uncertainty. Indeed, when expert opinions are not resolvable, there is inherent ambiguity present in the labels. That is, we do not have ``crisp'', definitive ground truth labels and this uncertainty should be taken into account during calibration. In this paper, we develop a conformal prediction framework for such ambiguous ground truth settings which relies on an approximation of the underlying posterior distribution of labels given inputs. We demonstrate our methodology on synthetic and real datasets, including a case study of skin condition classification in dermatology."
-#       bio: "David is a research scientist at Google DeepMind interested in robust and safe deep learning. Before, he completed his PhD at the Max Planck Institute for Informatics which included an internship at Google DeepMind and a collaboration with IBM Research. His PhD was supported by a Qualcomm Innovation Fellowship 2019 and received the DAGM MVTec Dissertation Award 2023. Other notable honors include an outstanding paper award at the CVPR 2021 CV-AML workshop, participation in the 7th and 10th Heidelberg Laureate forum, the RWTH Aachen University Springorum Denkmünze as well as the STEM-Award IT 2018 for his master thesis, and several national scholarships. He was repeatedly recognized as an outstanding/top reviewer for CVPR, ICML and NeurIPS. More details can be found on his blog at davidstutz.de."
+- type: Happening Today
+  members:
+    - speaker: Stella Yu, University of Michigan
+      date: 11/13/2023
+      title: "Unsupervisedly Learning Segmentation Of, By, and For Visual Recognition"
+      abstract: "Image segmentation in computer vision has evolved such that it is routinely treated as an end task.  For example, for autonomous driving, we are interested in segmenting a road scene into {\it cars, bikes, motorcycles, persons, trees, lamp-posts, traffic signs, curbs}, etc.  To differentiate a person in different contexts, we label {\it a person on a bike} a {\it bike-rider}, {\it a person on a curb} a {\it pedestrian}, {\it a person on a horse} a {\it horse-rider}.  To understand the intent and action of a person, we want to segment a person into {\it head, torso, arms, legs}.  Segment-Anything-Model (SAM) takes supervised segmentation to a large scale, giving a false impression that segmentation is now solved. My view is that segmentation underlies the generalization capability of visual intelligence and supervised segmentation is simply the wrong approach.  Segmentation should be treated not as an end-goal itself, but as an internal mid-level representation that serves visual recognition.   I will present our recent works in this direction, including unsupervised learning of objectness and visual context, unsupervised discovery of visual semantic hierarchies and part-whole hierarchies."
+      bio: "Stella Yu received her Ph.D. from Carnegie Mellon University, where she studied robotics at the Robotics Institute and vision science at the Center for the Neural Basis of Cognition.  Before she joined the University of Michigan faculty in Fall 2022, she has been the Director of Vision Group at the International Computer Science Institute, a Senior Fellow at the Berkeley Institute for Data Science, and on the faculty of Computer Science, Vision Science, Cognitive and Brain Sciences at UC Berkeley.  Dr. Yu is interested not only in understanding visual perception from multiple perspectives, but also in using computer vision and machine learning to automate and exceed human expertise in practical applications. "
 
 - type: Upcoming Talks
   members: 
-    - speaker: Stella Yu, University of Michigan
-      date: 11/13/2023
-      abstract: TBD
     - speaker: Dongwon Lee, PSU
       date: 11/27/2023
       abstract: TBD
