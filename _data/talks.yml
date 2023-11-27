@@ -7,7 +7,10 @@
       bio: " Dongwon Lee is a full professor and the director of the Ph.D. program in the Information School (also known as iSchool) at Penn State University, USA. He is also an ACM Distinguished Scientist (2019) and a Fulbright Cyber Security Scholar (2022). Before joining Penn State, he worked at AT&T Bell Labs in New Jersey and earned his Ph.D. in Computer Science from UCLA. From 2015 to 2017, he served as a Program Director at the National Science Foundation (NSF), co-managing cybersecurity education and research programs and contributing to the development of national research priorities. In general, his research focuses on problems at the intersection of data science, machine learning, and cybersecurity. For more details about his research, you can visit: https://pike.psu.edu/."
 
 - type: Upcoming Talks
-  members: 
+  members:
+    - speaker: Graham Neubig, Inspired Cognition / LTI @ Carnegie Mellon University
+      date: TBD
+      abstract: TBD
     - speaker: Max Welling, Microsoft Research / University of Amsterdam
       date: TBD
       abstract: TBD
