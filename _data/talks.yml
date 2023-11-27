@@ -1,15 +1,15 @@
-# - type: Happening Today
-#   members:
-#     - speaker: Stella Yu, University of Michigan
-#       date: 11/13/2023
-#       title: "Unsupervisedly Learning Segmentation Of, By, and For Visual Recognition"
-#       abstract: "Image segmentation in computer vision has evolved such that it is routinely treated as an end task.  For example, for autonomous driving, we are interested in segmenting a road scene into  (cars, bikes, motorcycles, persons, trees, lamp-posts, traffic signs, curbs), etc.  To differentiate a person in different contexts, we label (a person on a bike) a (bike-rider), (a person on a curb) a (it pedestrian), (a person on a horse) a (horse-rider).  To understand the intent and action of a person, we want to segment a person into (head, torso, arms, legs).  Segment-Anything-Model (SAM) takes supervised segmentation to a large scale, giving a false impression that segmentation is now solved. My view is that segmentation underlies the generalization capability of visual intelligence and supervised segmentation is simply the wrong approach.  Segmentation should be treated not as an end-goal itself, but as an internal mid-level representation that serves visual recognition.   I will present our recent works in this direction, including unsupervised learning of objectness and visual context, unsupervised discovery of visual semantic hierarchies and part-whole hierarchies."
-#       bio: "Stella Yu received her Ph.D. from Carnegie Mellon University, where she studied robotics at the Robotics Institute and vision science at the Center for the Neural Basis of Cognition.  Before she joined the University of Michigan faculty in Fall 2022, she has been the Director of Vision Group at the International Computer Science Institute, a Senior Fellow at the Berkeley Institute for Data Science, and on the faculty of Computer Science, Vision Science, Cognitive and Brain Sciences at UC Berkeley.  Dr. Yu is interested not only in understanding visual perception from multiple perspectives, but also in using computer vision and machine learning to automate and exceed human expertise in practical applications. "
+- type: Happening Today
+  members:
+    - speaker: Dongwon Lee, Penn State
+      date: 11/27/2023
+      title: "Deepfakes, Language Models, and The Age of Synthetic Truth"
+      abstract: "The recent explosive advancements in both deepfake-enabling methods in Computer Vision and generative language models in NLP have enabled the generation of human-quality artifacts in various modalities. However, at the same time, these new AI technologies can be used by adversaries for malicious purposes, opening a window of opportunity for disinformation purveyors and state-sponsored hackers. In this talk, I’ll showcase some examples of deepfake artifacts and their underlying AI technologies, especially reviewing the current landscape of large language models. Then, I’ll discuss how adversaries may use such recent developments to create the so-called “Fake News 2.0,” which can erode the public’s confidence in democracy. Finally, I will conclude the talk by sharing the important implications of deepfakes within the information ecosystem as well as in society at large."
+      bio: " Dongwon Lee is a full professor and the director of the Ph.D. program in the Information School (also known as iSchool) at Penn State University, USA. He is also an ACM Distinguished Scientist (2019) and a Fulbright Cyber Security Scholar (2022). Before joining Penn State, he worked at AT&T Bell Labs in New Jersey and earned his Ph.D. in Computer Science from UCLA. From 2015 to 2017, he served as a Program Director at the National Science Foundation (NSF), co-managing cybersecurity education and research programs and contributing to the development of national research priorities. In general, his research focuses on problems at the intersection of data science, machine learning, and cybersecurity. For more details about his research, you can visit: https://pike.psu.edu/."
 
 - type: Upcoming Talks
   members: 
-    - speaker: Dongwon Lee, PSU
-      date: 11/27/2023
+    - speaker: TBD
+      date: TBD
       abstract: TBD
 
 - type: Previous Talks
