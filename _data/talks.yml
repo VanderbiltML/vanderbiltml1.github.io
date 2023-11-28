@@ -1,14 +1,17 @@
-- type: Happening Today
-  members:
-    - speaker: Dongwon Lee, Penn State
-      date: 11/27/2023
-      title: "Deepfakes, Language Models, and The Age of Synthetic Truth"
-      abstract: "The recent explosive advancements in both deepfake-enabling methods in Computer Vision and generative language models in NLP have enabled the generation of human-quality artifacts in various modalities. However, at the same time, these new AI technologies can be used by adversaries for malicious purposes, opening a window of opportunity for disinformation purveyors and state-sponsored hackers. In this talk, I’ll showcase some examples of deepfake artifacts and their underlying AI technologies, especially reviewing the current landscape of large language models. Then, I’ll discuss how adversaries may use such recent developments to create the so-called “Fake News 2.0,” which can erode the public’s confidence in democracy. Finally, I will conclude the talk by sharing the important implications of deepfakes within the information ecosystem as well as in society at large."
-      bio: " Dongwon Lee is a full professor and the director of the Ph.D. program in the Information School (also known as iSchool) at Penn State University, USA. He is also an ACM Distinguished Scientist (2019) and a Fulbright Cyber Security Scholar (2022). Before joining Penn State, he worked at AT&T Bell Labs in New Jersey and earned his Ph.D. in Computer Science from UCLA. From 2015 to 2017, he served as a Program Director at the National Science Foundation (NSF), co-managing cybersecurity education and research programs and contributing to the development of national research priorities. In general, his research focuses on problems at the intersection of data science, machine learning, and cybersecurity. For more details about his research, you can visit: https://pike.psu.edu/."
+# - type: Happening Today
+#   members:
+#     - speaker: Dongwon Lee, Penn State
+#       date: 11/27/2023
+#       title: "Deepfakes, Language Models, and The Age of Synthetic Truth"
+#       abstract: "The recent explosive advancements in both deepfake-enabling methods in Computer Vision and generative language models in NLP have enabled the generation of human-quality artifacts in various modalities. However, at the same time, these new AI technologies can be used by adversaries for malicious purposes, opening a window of opportunity for disinformation purveyors and state-sponsored hackers. In this talk, I’ll showcase some examples of deepfake artifacts and their underlying AI technologies, especially reviewing the current landscape of large language models. Then, I’ll discuss how adversaries may use such recent developments to create the so-called “Fake News 2.0,” which can erode the public’s confidence in democracy. Finally, I will conclude the talk by sharing the important implications of deepfakes within the information ecosystem as well as in society at large."
+#       bio: " Dongwon Lee is a full professor and the director of the Ph.D. program in the Information School (also known as iSchool) at Penn State University, USA. He is also an ACM Distinguished Scientist (2019) and a Fulbright Cyber Security Scholar (2022). Before joining Penn State, he worked at AT&T Bell Labs in New Jersey and earned his Ph.D. in Computer Science from UCLA. From 2015 to 2017, he served as a Program Director at the National Science Foundation (NSF), co-managing cybersecurity education and research programs and contributing to the development of national research priorities. In general, his research focuses on problems at the intersection of data science, machine learning, and cybersecurity. For more details about his research, you can visit: https://pike.psu.edu/."
 
 - type: Upcoming Talks
   members:
     - speaker: Graham Neubig, Inspired Cognition / LTI @ Carnegie Mellon University
+      date: TBD
+      abstract: TBD
+    - speaker: Ryan Rossi, Adobe Research
       date: TBD
       abstract: TBD
     - speaker: Max Welling, Microsoft Research / University of Amsterdam
@@ -20,6 +23,11 @@
 
 - type: Previous Talks
   members:
+    - speaker: Dongwon Lee, Penn State
+      date: 11/27/2023
+      title: "Deepfakes, Language Models, and The Age of Synthetic Truth"
+      abstract: "The recent explosive advancements in both deepfake-enabling methods in Computer Vision and generative language models in NLP have enabled the generation of human-quality artifacts in various modalities. However, at the same time, these new AI technologies can be used by adversaries for malicious purposes, opening a window of opportunity for disinformation purveyors and state-sponsored hackers. In this talk, I’ll showcase some examples of deepfake artifacts and their underlying AI technologies, especially reviewing the current landscape of large language models. Then, I’ll discuss how adversaries may use such recent developments to create the so-called “Fake News 2.0,” which can erode the public’s confidence in democracy. Finally, I will conclude the talk by sharing the important implications of deepfakes within the information ecosystem as well as in society at large."
+      bio: " Dongwon Lee is a full professor and the director of the Ph.D. program in the Information School (also known as iSchool) at Penn State University, USA. He is also an ACM Distinguished Scientist (2019) and a Fulbright Cyber Security Scholar (2022). Before joining Penn State, he worked at AT&T Bell Labs in New Jersey and earned his Ph.D. in Computer Science from UCLA. From 2015 to 2017, he served as a Program Director at the National Science Foundation (NSF), co-managing cybersecurity education and research programs and contributing to the development of national research priorities. In general, his research focuses on problems at the intersection of data science, machine learning, and cybersecurity. For more details about his research, you can visit: https://pike.psu.edu/."
     - speaker: Stella Yu, University of Michigan
       date: 11/13/2023
       title: "Unsupervised Learning Of Segmentation By Recognition and For Recognition"
