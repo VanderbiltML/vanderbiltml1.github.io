@@ -9,7 +9,13 @@
 - type: Upcoming Talks
   members:
     - speaker: Graham Neubig, Inspired Cognition / LTI @ Carnegie Mellon University
-      date: TBD
+      date: 01/22/2024
+      abstract: TBD
+    - speaker: Peyman Milanfar / Google
+      date: 02/05/2024
+      abstract: TBD  
+    - speaker: Max Welling, Microsoft Research / University of Amsterdam
+      date: 03/11/2024
       abstract: TBD
     - speaker: Nicolas Papernot, Google DeepMind / U of Toronto
       date: TBD
@@ -17,12 +23,6 @@
     - speaker: Ryan Rossi, Adobe Research
       date: TBD
       abstract: TBD
-    - speaker: Max Welling, Microsoft Research / University of Amsterdam
-      date: TBD
-      abstract: TBD
-    - speaker: Peyman Milanfar / Google
-      date: TBD
-      abstract: TBD  
 
 - type: Previous Talks
   members:
