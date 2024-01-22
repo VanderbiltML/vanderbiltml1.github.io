@@ -1,16 +1,13 @@
-# - type: Happening Today
-#   members:
-#     - speaker: Dongwon Lee, Penn State
-#       date: 11/27/2023
-#       title: "Deepfakes, Language Models, and The Age of Synthetic Truth"
-#       abstract: "The recent explosive advancements in both deepfake-enabling methods in Computer Vision and generative language models in NLP have enabled the generation of human-quality artifacts in various modalities. However, at the same time, these new AI technologies can be used by adversaries for malicious purposes, opening a window of opportunity for disinformation purveyors and state-sponsored hackers. In this talk, I’ll showcase some examples of deepfake artifacts and their underlying AI technologies, especially reviewing the current landscape of large language models. Then, I’ll discuss how adversaries may use such recent developments to create the so-called “Fake News 2.0,” which can erode the public’s confidence in democracy. Finally, I will conclude the talk by sharing the important implications of deepfakes within the information ecosystem as well as in society at large."
-#       bio: " Dongwon Lee is a full professor and the director of the Ph.D. program in the Information School (also known as iSchool) at Penn State University, USA. He is also an ACM Distinguished Scientist (2019) and a Fulbright Cyber Security Scholar (2022). Before joining Penn State, he worked at AT&T Bell Labs in New Jersey and earned his Ph.D. in Computer Science from UCLA. From 2015 to 2017, he served as a Program Director at the National Science Foundation (NSF), co-managing cybersecurity education and research programs and contributing to the development of national research priorities. In general, his research focuses on problems at the intersection of data science, machine learning, and cybersecurity. For more details about his research, you can visit: https://pike.psu.edu/."
+- type: Happening Today
+  members:
+    - speaker: Graham Neubig, LTI @ Carnegie Mellon University
+      date: 01/22/2024
+      title: "Towards Automating Machine Learning Engineering"
+      abstract: "When a skilled machine learning engineer is tasked with building a system for a specific application, they take several steps. Some of these include doing a literature review of the most appropriate models and datasets, choosing which ones to utilize based on accuracy and other constraints such as efficiency or latency, creating or curating training and testing data, training and comparing models, identifying weak points of the current modeling paradigm and iteratively improving. In this talk, I will discuss some two projects that take steps towards automation of this entire process. The first, prompt2model, is a method to solve the task of taking in a natural language task description (similar to a prompt that is provided to a system like ChatGPT) and utilize the entire open source model training ecosystem to train a small, easily deployable model that nonetheless has competitive accuracy with large language models. The second, Zeno, is an intelligent model comparison and error analysis tool that makes it possible for machine learning engineers to quickly uncover errors and weak spots, including methods for automatic blind-spot discovery."
+      bio: "Graham Neubig is an associate professor at the Language Technologies Institute of Carnegie Mellon University. His research focuses natural language processing, with a particular interest in fundamentals, applications, and understanding of large language models for tasks such as question answering, code generation, and multilingual applications. His final goal is that every person in the world should be able to communicate with each-other, and with computers in their own language. He also contributes to making NLP research more accessible through open publishing of research papers, advanced NLP course materials and video lectures, and open-source software, all of which are available on his web site."
 
 - type: Upcoming Talks
   members:
-    - speaker: Graham Neubig, Inspired Cognition / LTI @ Carnegie Mellon University
-      date: 01/22/2024
-      abstract: TBD
     - speaker: Peyman Milanfar / Google
       date: 02/05/2024
       abstract: TBD
