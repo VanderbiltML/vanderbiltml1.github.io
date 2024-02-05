@@ -1,16 +1,16 @@
-# - type: Happening Today
-#   members:
-#     - speaker: Graham Neubig, LTI @ Carnegie Mellon University
-#       date: 01/22/2024
-#       title: "Towards Automating Machine Learning Engineering"
-#       abstract: "When a skilled machine learning engineer is tasked with building a system for a specific application, they take several steps. Some of these include doing a literature review of the most appropriate models and datasets, choosing which ones to utilize based on accuracy and other constraints such as efficiency or latency, creating or curating training and testing data, training and comparing models, identifying weak points of the current modeling paradigm and iteratively improving. In this talk, I will discuss some two projects that take steps towards automation of this entire process. The first, prompt2model, is a method to solve the task of taking in a natural language task description (similar to a prompt that is provided to a system like ChatGPT) and utilize the entire open source model training ecosystem to train a small, easily deployable model that nonetheless has competitive accuracy with large language models. The second, Zeno, is an intelligent model comparison and error analysis tool that makes it possible for machine learning engineers to quickly uncover errors and weak spots, including methods for automatic blind-spot discovery."
-#       bio: "Graham Neubig is an associate professor at the Language Technologies Institute of Carnegie Mellon University. His research focuses natural language processing, with a particular interest in fundamentals, applications, and understanding of large language models for tasks such as question answering, code generation, and multilingual applications. His final goal is that every person in the world should be able to communicate with each-other, and with computers in their own language. He also contributes to making NLP research more accessible through open publishing of research papers, advanced NLP course materials and video lectures, and open-source software, all of which are available on his web site."
+- type: Happening Today
+  members:
+    - speaker: Peyman Milanfar / Google Research
+      date: 02/05/2024
+      title: "Denoising as a Building Block for Imaging, Inverse Problems, and Machine Learning"
+      abstract: "Denoising is one of the oldest problems in imaging. There are thousands of papers on this topic, and their scope is vast and the approaches so diverse that putting them in some order (as I will do) is both useful and challenging. In the last decade, the quality of denoising algorithms has reached phenomenal levels – almost as good as we can ever hope. But besides this, we've found completely unexpected, brand new uses for denoising. I will describe what we can say about this general class of operators, and what makes them so special. I will argue that denoising is more important than ever; not simply as a process for removing noise, but especially now as a core engine and building block for much more complex tasks in imaging, inverse problems, and machine learning."
+      bio: "Peyman is a Distinguished Scientist / Senior Director at Google Research, where he leads the Computational Imaging team. Prior to this, he was a Professor of Electrical Engineering at UC Santa Cruz from 1999-2014. He was Associate Dean for Research at the School of Engineering from 2010-12. From 2012-2014 he was on leave at Google-x, where he helped develop the imaging pipeline for Google Glass. Over the last several years, Peyman's team at Google has developed several core technologies including the digital zoom pipeline for the Pixel phones, which includes the multi-frame super-resolution (Super Res Zoom) pipeline, and the RAISR upscaling algorithm.  Most recently, his team led the development of the Unblur feature launched with Pixel 7/pro. Peyman received his undergraduate education in electrical engineering and mathematics from the University of California, Berkeley, and the MS and PhD degrees in electrical engineering from the Massachusetts Institute of Technology. He holds numerous patents, several of which are commercially licensed. He founded MotionDSP, which was acquired by Cubic Inc. Peyman has been keynote speaker at numerous technical conferences including Picture Coding Symposium (PCS), SIAM Imaging Sciences, SPIE, and the International Conference on Multimedia (ICME). Along with his students, he has won several best paper awards from the IEEE Signal Processing Society. He was a Distinguished Lecturer of the IEEE Signal Processing Society, and is a Fellow of the IEEE for contributions to inverse problems and super-resolution in imaging."
 
 - type: Upcoming Talks
   members:
-    - speaker: Peyman Milanfar / Google
-      date: 02/05/2024
-      abstract: TBD
+    # - speaker: Peyman Milanfar / Google
+    #   date: 02/05/2024
+    #   abstract: TBD
     - speaker: Aapo Hyvärinen / University of Helsinki
       date: 02/12/2024
       abstract: TBD
@@ -19,6 +19,9 @@
       abstract: TBD
     - speaker: Nicolas Papernot, Google DeepMind / U of Toronto
       date: 03/18/2024
+      abstract: TBD
+    - speaker: Frank Tong, Vanderbilt University
+      date: 03/25/2024
       abstract: TBD
     - speaker: Ryan Rossi, Adobe Research
       date: TBD
